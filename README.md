@@ -1,15 +1,6 @@
 # College ROI Dashboard
 
-**Interactive dashboard analyzing the return on investment of different college majors**
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![Dash](https://img.shields.io/badge/Dash-2.14-purple)
-![Plotly](https://img.shields.io/badge/Plotly-5.18-green)
-
----
-
-## 🎯 Project Overview
-
+## Project Overview
 This interactive dashboard helps students make data-driven decisions about college majors by analyzing:
 - **Historical tuition trends** (1985-2016)
 - **Salary outcomes** for 763 different majors
@@ -17,11 +8,9 @@ This interactive dashboard helps students make data-driven decisions about colle
 - **Break-even analysis** comparing college graduates vs. high school graduates
 
 Built with Python, Dash, and Plotly, featuring a neon magenta color scheme and fully interactive visualizations.
-
 ---
 
-## 📊 Key Features
-
+## Key Features
 ### 1. Tuition Trends Analysis
 - Visualizes college cost increases over 30+ years
 - Shows inflation-adjusted (constant dollar) trends
@@ -46,7 +35,7 @@ Built with Python, Dash, and Plotly, featuring a neon magenta color scheme and f
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.8+** - Core programming language
 - **Dash** - Interactive web dashboard framework
@@ -56,7 +45,7 @@ Built with Python, Dash, and Plotly, featuring a neon magenta color scheme and f
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 college-roi-dashboard/
@@ -73,7 +62,7 @@ college-roi-dashboard/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -107,7 +96,7 @@ Navigate to `http://localhost:8050` to view the dashboard
 
 ---
 
-## 📈 Data Sources
+## Data Sources
 
 ### Tuition Data
 - **Source:** TidyTuesday College Tuition Dataset
@@ -123,7 +112,7 @@ Navigate to `http://localhost:8050` to view the dashboard
 
 ---
 
-## 🧮 Methodology
+## Methodology
 
 ### ROI Calculation
 
@@ -145,7 +134,7 @@ Majors are automatically categorized into 8 fields:
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 ### Fastest Break-Even Majors:
 1. **Electrical Engineering & Computer Science (EECS)** - 1.2 years
@@ -165,7 +154,7 @@ Majors are automatically categorized into 8 fields:
 
 ---
 
-## 🎨 Design Features
+## Design Features
 
 - **Neon Magenta Color Scheme** (#ff00ff) - Project 2 signature color
 - **Dark Mode Interface** - Easy on the eyes
@@ -175,7 +164,7 @@ Majors are automatically categorized into 8 fields:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 Potential additions to the dashboard:
 - [ ] Add regional salary variations
@@ -187,7 +176,7 @@ Potential additions to the dashboard:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 **Data Considerations:**
 - Tuition data ends in 2016 (costs have likely increased)
@@ -200,7 +189,7 @@ Potential additions to the dashboard:
 
 ---
 
-## 👤 Author
+## Author
 
 **Monse Rojo**
 - Portfolio: [monserojo.com](https://monserojo.com)
@@ -209,18 +198,15 @@ Potential additions to the dashboard:
 
 ---
 
-## 📝 License
+## License
 
 This project is open source and available for educational purposes.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Data from TidyTuesday and PayScale
 - Built with Dash and Plotly
 - Inspired by the need for data-driven college decisions
 
----
-
-**Built with ❤️ and data by Monse Rojo**
