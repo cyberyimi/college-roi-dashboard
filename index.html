@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College ROI Dashboard | Monse Rojo</title>
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: #000;
+            color: #fff;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 60px 0;
+            border-bottom: 3px solid #ff00ff;
+            margin-bottom: 60px;
+        }
+
+        h1 {
+            font-size: 3.5rem;
+            margin-bottom: 15px;
+            color: #ff00ff;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+        }
+
+        .subtitle {
+            font-size: 1.3rem;
+            color: #999;
+            margin-bottom: 30px;
+        }
+
+        /* Stats Grid */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 60px;
+        }
+
+        .stat-card {
+            background: #111;
+            padding: 30px;
+            border: 2px solid #ff00ff;
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2.5rem;
+            color: #ff00ff;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .stat-label {
+            color: #999;
+            font-size: 0.95rem;
+        }
+
+        /* Dashboard Note */
+        .dashboard-note {
+            background: #111;
+            padding: 40px;
+            margin: 40px 0;
+            border-left: 5px solid #ff00ff;
+        }
+
+        .dashboard-note h2 {
+            color: #ff00ff;
+            margin-bottom: 20px;
+        }
+
+        .dashboard-note p {
+            color: #ccc;
+            margin-bottom: 15px;
+            line-height: 1.8;
+        }
+
+        .dashboard-note ul {
+            color: #ccc;
+            margin-left: 30px;
+            line-height: 2;
+        }
+
+        .dashboard-note li {
+            margin-bottom: 10px;
+        }
+
+        /* Key Findings */
+        .findings {
+            background: #111;
+            padding: 40px;
+            margin: 40px 0;
+            border: 2px solid #333;
+        }
+
+        .findings h2 {
+            color: #ff00ff;
+            margin-bottom: 30px;
+            font-size: 2rem;
+        }
+
+        .findings-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .finding-item {
+            background: #000;
+            padding: 20px;
+            border: 2px solid #333;
+        }
+
+        .finding-item h3 {
+            color: #ff00ff;
+            margin-bottom: 15px;
+            font-size: 1.2rem;
+        }
+
+        .finding-item ul {
+            list-style: none;
+            color: #ccc;
+        }
+
+        .finding-item li {
+            padding: 8px 0;
+            padding-left: 20px;
+            position: relative;
+        }
+
+        .finding-item li:before {
+            content: "→";
+            position: absolute;
+            left: 0;
+            color: #ff00ff;
+        }
+
+        /* Tech Stack */
+        .tech-stack {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin: 40px 0;
+        }
+
+        .tech-badge {
+            padding: 10px 20px;
+            background: transparent;
+            border: 2px solid #ff00ff;
+            color: #ff00ff;
+            font-weight: bold;
+            text-transform: uppercase;
+            font-size: 0.85rem;
+        }
+
+        /* Links */
+        .links {
+            text-align: center;
+            padding: 40px 0;
+        }
+
+        .link-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 15px 40px;
+            background: transparent;
+            border: 2px solid #ff00ff;
+            color: #ff00ff;
+            text-decoration: none;
+            font-weight: bold;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
+        }
+
+        .btn:hover {
+            background: #ff00ff;
+            color: #000;
+        }
+
+        footer {
+            text-align: center;
+            padding: 40px 0;
+            border-top: 2px solid #222;
+            color: #666;
+            margin-top: 60px;
+        }
+
+        footer a {
+            color: #ff00ff;
+            text-decoration: none;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>College ROI Dashboard</h1>
+            <p class="subtitle">Analyzing the Return on Investment of Different College Majors</p>
+            <div class="tech-stack">
+                <span class="tech-badge">Python</span>
+                <span class="tech-badge">Dash</span>
+                <span class="tech-badge">Plotly</span>
+                <span class="tech-badge">Pandas</span>
+            </div>
+        </header>
+
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-number">763</div>
+                <div class="stat-label">Majors Analyzed</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">$106K</div>
+                <div class="stat-label">Average 4-Year Cost</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">3 Years</div>
+                <div class="stat-label">Avg Break-Even (Engineering)</div>
+            </div>
+        </div>
+
+        <div class="dashboard-note">
+            <h2>About This Dashboard</h2>
+            <p>
+                This interactive data visualization tool helps students make informed decisions about college majors
+                by analyzing the financial return on investment of different fields of study.
+            </p>
+            <p>
+                Built with Python, Dash, and Plotly, the dashboard features:
+            </p>
+            <ul>
+                <li><strong>Historical Tuition Analysis:</strong> Tracks college cost increases from 1985-2016</li>
+                <li><strong>Salary Comparison:</strong> Early and mid-career pay for 763 different majors</li>
+                <li><strong>ROI Calculator:</strong> Interactive tool showing break-even timelines</li>
+                <li><strong>Best Value Analysis:</strong> Identifies majors with fastest financial return</li>
+            </ul>
+            <p style="margin-top: 20px;">
+                <strong>Note:</strong> The full interactive dashboard is a Python Dash application that runs locally.
+                This page provides an overview of the project and key findings.
+            </p>
+        </div>
+
+        <div class="findings">
+            <h2>Key Findings</h2>
+            <div class="findings-grid">
+                <div class="finding-item">
+                    <h3>Fastest Break-Even Majors</h3>
+                    <ul>
+                        <li>EECS: 1.2 years</li>
+                        <li>Operations Research: 1.7 years</li>
+                        <li>Petroleum Engineering: 1.8 years</li>
+                        <li>Nuclear Engineering: 1.9 years</li>
+                        <li>Computer Engineering: 2.0 years</li>
+                    </ul>
+                </div>
+
+                <div class="finding-item">
+                    <h3>Break-Even by Category</h3>
+                    <ul>
+                        <li>Engineering: 3 years</li>
+                        <li>Business: 5 years</li>
+                        <li>Sciences: 6 years</li>
+                        <li>Humanities: 7 years</li>
+                        <li>Arts: 8 years</li>
+                        <li>Education: 12 years</li>
+                    </ul>
+                </div>
+
+                <div class="finding-item">
+                    <h3>Tuition Growth</h3>
+                    <ul>
+                        <li>1985: $12,274/year</li>
+                        <li>2016: $26,593/year</li>
+                        <li>Growth: 117% increase</li>
+                        <li>Above inflation rate</li>
+                        <li>4-year total: $106,372</li>
+                    </ul>
+                </div>
+
+                <div class="finding-item">
+                    <h3>Top Earning Fields</h3>
+                    <ul>
+                        <li>Engineering: $78K avg</li>
+                        <li>Business: $64K avg</li>
+                        <li>Sciences: $63K avg</li>
+                        <li>Health: $57K avg</li>
+                        <li>Humanities: $56K avg</li>
+                    </ul>
+                </div>
+
+                <div class="finding-item">
+                    <h3>ROI Insights</h3>
+                    <ul>
+                        <li>Engineering majors break even fastest</li>
+                        <li>Education takes longest but high job meaning</li>
+                        <li>Mid-career pay doubles for many fields</li>
+                        <li>STEM dominates top 20 ROI majors</li>
+                    </ul>
+                </div>
+
+                <div class="finding-item">
+                    <h3>Data Methodology</h3>
+                    <ul>
+                        <li>763 majors analyzed</li>
+                        <li>Compares to $40K HS grad baseline</li>
+                        <li>Uses 2016 average tuition</li>
+                        <li>Inflation-adjusted dollars</li>
+                        <li>National averages</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="dashboard-note">
+            <h2>Technical Implementation</h2>
+            <p>
+                The dashboard demonstrates professional data science workflows including:
+            </p>
+            <ul>
+                <li><strong>Data Cleaning:</strong> Processing 763 majors with salary data parsing and categorization</li>
+                <li><strong>Feature Engineering:</strong> Calculating ROI metrics, break-even timelines, and lifetime earnings</li>
+                <li><strong>Interactive Visualization:</strong> Dash callbacks for dynamic chart updates based on user selection</li>
+                <li><strong>Color Coding:</strong> Neon magenta (#ff00ff) theme for Project 2 branding consistency</li>
+                <li><strong>Responsive Design:</strong> Mobile-friendly layout with flexbox and grid</li>
+            </ul>
+        </div>
+
+        <div class="links" style="margin-top: 60px;">
+            <h2 style="color: #ff00ff; margin-bottom: 30px;">View the Project</h2>
+            <div class="link-buttons">
+                <a href="https://github.com/cyberyimi/college-roi-dashboard" class="btn">GitHub Repository</a>
+                <a href="https://monserojo.com" class="btn">Back to Portfolio</a>
+            </div>
+        </div>
+
+        <footer>
+            <p>Project by <a href="https://monserojo.com">Monse Rojo</a> | 
+            <a href="https://github.com/cyberyimi">GitHub</a> | 
+            <a href="https://www.linkedin.com/in/monse-rojo-6b70b3397/">LinkedIn</a></p>
+            <p style="margin-top: 10px; font-size: 0.9rem;">Built with Python, Dash, Plotly, and Pandas</p>
+            <p style="margin-top: 10px; font-size: 0.85rem;">Data: TidyTuesday College Tuition | PayScale Salary Report</p>
+        </footer>
+    </div>
+</body>
+</html>

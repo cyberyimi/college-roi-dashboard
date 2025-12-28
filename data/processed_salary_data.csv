@@ -1,0 +1,764 @@
+rank,major,degree_type,early_career_pay,mid_career_pay,high_meaning_pct,total_tuition_cost,salary_advantage,years_to_break_even,lifetime_advantage,category
+1,Petroleum Engineering,Bachelors,98100.0,212100.0,60.0,106372,58100.0,1.830843373493976,5637628.0,Engineering & Technology
+2,Operations Research & Industrial Engineering,Bachelors,101200.0,202600.0,21.0,106372,61200.0,1.7381045751633988,5383628.0,Engineering & Technology
+3,Electrical Engineering & Computer Science (EECS),Bachelors,128500.0,192300.0,45.0,106372,88500.0,1.2019435028248588,5347628.0,Engineering & Technology
+4,Interaction Design,Bachelors,77400.0,178800.0,55.0,106372,37400.0,2.8441711229946525,4431628.0,Arts & Communications
+5,Building Science,Bachelors,71100.0,172400.0,46.0,106372,31100.0,3.42032154340836,4176628.0,Sciences & Mathematics
+6,Applied Economics and Management,Bachelors,81200.0,169300.0,47.0,106372,41200.0,2.5818446601941747,4184628.0,Business & Economics
+7,Actuarial Mathematics,Bachelors,71200.0,167500.0,48.0,106372,31200.0,3.4093589743589745,4030628.0,Sciences & Mathematics
+8,Optical Science & Engineering,Bachelors,81500.0,166400.0,73.0,106372,41500.0,2.563180722891566,4100628.0,Engineering & Technology
+9,Quantitative Economics,Bachelors,78400.0,165100.0,43.0,106372,38400.0,2.7701041666666666,4030628.0,Business & Economics
+10,Operations Research,Bachelors,94900.0,164900.0,56.0,106372,54900.0,1.9375591985428051,4189628.0,Other
+11,Systems Engineering,Bachelors,89700.0,163800.0,57.0,106372,49700.0,2.1402816901408452,4104628.0,Engineering & Technology
+12,Information & Computer Science,Bachelors,73200.0,162900.0,65.0,106372,33200.0,3.2039759036144577,3912628.0,Engineering & Technology
+13,Public Accounting,Bachelors,71500.0,162200.0,47.0,106372,31500.0,3.376888888888889,3874628.0,Business & Economics
+14,Cognitive Science,Bachelors,80300.0,162100.0,43.0,106372,40300.0,2.6395037220843673,3959628.0,Sciences & Mathematics
+15,Aeronautics & Astronautics,Bachelors,89800.0,161600.0,60.0,106372,49800.0,2.135983935742972,4039628.0,Other
+16,Aerospace Studies,Bachelors,64500.0,158400.0,,106372,24500.0,4.341714285714286,3690628.0,Other
+17,Pharmacy,Bachelors,71500.0,158000.0,80.0,106372,31500.0,3.376888888888889,3748628.0,Health & Medicine
+18,Managerial Economics,Bachelors,78200.0,157800.0,38.0,106372,38200.0,2.784607329842932,3809628.0,Business & Economics
+19,Foreign Affairs,Bachelors,65200.0,157700.0,32.0,106372,25200.0,4.221111111111111,3676628.0,Other
+20,Political Economy,Bachelors,75800.0,156700.0,30.0,106372,35800.0,2.9712849162011175,3752628.0,Other
+21,Chemical Engineering,Bachelors,87700.0,156100.0,54.0,106372,47700.0,2.230020964360587,3853628.0,Engineering & Technology
+21,Marine Transportation Management,Bachelors,78500.0,156100.0,,106372,38500.0,2.762909090909091,3761628.0,Business & Economics
+23,Computer Science (CS) & Engineering,Bachelors,93500.0,154100.0,44.0,106372,53500.0,1.9882616822429906,3851628.0,Engineering & Technology
+24,Corporate Accounting & Finance,Bachelors,79100.0,154000.0,,106372,39100.0,2.7205115089514065,3704628.0,Business & Economics
+25,Computer Engineering (CE),Bachelors,92000.0,153800.0,46.0,106372,52000.0,2.0456153846153846,3827628.0,Engineering & Technology
+26,Electrical Power Engineering,Bachelors,87200.0,152700.0,71.0,106372,47200.0,2.25364406779661,3746628.0,Engineering & Technology
+27,Marine Engineering,Bachelors,89400.0,151800.0,54.0,106372,49400.0,2.1532793522267206,3741628.0,Engineering & Technology
+28,Electrical & Computer Engineering (ECE),Bachelors,91100.0,151300.0,48.0,106372,51100.0,2.0816438356164384,3743628.0,Engineering & Technology
+29,Econometrics,Bachelors,74200.0,150900.0,35.0,106372,34200.0,3.1102923976608188,3562628.0,Other
+30,Actuarial Science,Bachelors,78500.0,150000.0,41.0,106372,38500.0,2.762909090909091,3578628.0,Sciences & Mathematics
+30,Astronomy,Bachelors,77000.0,150000.0,52.0,106372,37000.0,2.874918918918919,3563628.0,Other
+32,Mechatronics,Bachelors,83300.0,148600.0,46.0,106372,43300.0,2.4566281755196306,3584628.0,Other
+33,Computational & Applied Mathematics,Bachelors,88200.0,148200.0,46.0,106372,48200.0,2.2068879668049792,3621628.0,Sciences & Mathematics
+33,Construction Engineering Management,Bachelors,81700.0,148200.0,52.0,106372,41700.0,2.5508872901678656,3556628.0,Engineering & Technology
+35,Aeronautical Engineering,Bachelors,86500.0,147200.0,64.0,106372,46500.0,2.2875698924731185,3574628.0,Engineering & Technology
+35,Electrical Engineering (EE),Bachelors,87500.0,147200.0,53.0,106372,47500.0,2.2394105263157895,3584628.0,Engineering & Technology
+37,Naval Architecture & Marine Engineering,Bachelors,85300.0,147000.0,51.0,106372,45300.0,2.348167770419426,3556628.0,Engineering & Technology
+38,Instrumentation & Control Engineering,Bachelors,83800.0,146600.0,45.0,106372,43800.0,2.4285844748858447,3529628.0,Engineering & Technology
+38,Ocean Engineering (OE),Bachelors,80300.0,146600.0,49.0,106372,40300.0,2.6395037220843673,3494628.0,Engineering & Technology
+40,Electrical & Electronics Engineering (EEE),Bachelors,86300.0,146400.0,56.0,106372,46300.0,2.297451403887689,3548628.0,Engineering & Technology
+41,Quantitative Business Analysis,Bachelors,86300.0,145000.0,36.0,106372,46300.0,2.297451403887689,3506628.0,Business & Economics
+42,Computer Science (CS) & Mathematics,Bachelors,82800.0,144900.0,46.0,106372,42800.0,2.4853271028037383,3468628.0,Engineering & Technology
+43,Engineering Physics,Bachelors,80900.0,144500.0,49.0,106372,40900.0,2.6007823960880194,3437628.0,Engineering & Technology
+44,Bioscience,Bachelors,61700.0,144400.0,,106372,21700.0,4.901935483870968,3242628.0,Sciences & Mathematics
+45,Computer Science (CS),Bachelors,88400.0,143900.0,42.0,106372,48400.0,2.1977685950413224,3494628.0,Engineering & Technology
+46,Jazz Studies,Bachelors,63800.0,143600.0,52.0,106372,23800.0,4.469411764705883,3239628.0,Other
+47,Aeronautical/Aerospace Engineering Technology,Bachelors,84500.0,142500.0,48.0,106372,44500.0,2.39038202247191,3413628.0,Engineering & Technology
+48,Bioengineering (BioE),Bachelors,81900.0,142100.0,66.0,106372,41900.0,2.5387112171837707,3375628.0,Engineering & Technology
+49,Management Science,Bachelors,75500.0,141900.0,42.0,106372,35500.0,2.9963943661971832,3305628.0,Business & Economics
+50,Aerospace Engineering,Bachelors,85900.0,141800.0,53.0,106372,45900.0,2.3174727668845314,3406628.0,Engineering & Technology
+51,Information Management,Bachelors,71000.0,141400.0,35.0,106372,31000.0,3.4313548387096775,3245628.0,Business & Economics
+52,Metallurgical Engineering,Bachelors,93200.0,141300.0,64.0,106372,53200.0,1.9994736842105263,3464628.0,Engineering & Technology
+53,Applied Mathematics,Bachelors,79900.0,141100.0,40.0,106372,39900.0,2.665964912280702,3325628.0,Sciences & Mathematics
+53,Operations Management & Information Systems,Bachelors,78400.0,141100.0,41.0,106372,38400.0,2.7701041666666666,3310628.0,Business & Economics
+55,Chemical & Biomolecular Engineering,Bachelors,88300.0,140900.0,52.0,106372,48300.0,2.2023188405797103,3403628.0,Engineering & Technology
+56,Mechanical & Aeronautical Engineering,Bachelors,84200.0,140600.0,63.0,106372,44200.0,2.406606334841629,3353628.0,Engineering & Technology
+57,Materials Science,Bachelors,79000.0,140200.0,,106372,39000.0,2.7274871794871793,3289628.0,Sciences & Mathematics
+58,Engineering,Bachelors,80000.0,140000.0,58.0,106372,40000.0,2.6593,3293628.0,Engineering & Technology
+59,Energy Management,Bachelors,69700.0,139900.0,70.0,106372,29700.0,3.5815488215488216,3187628.0,Business & Economics
+60,Industrial & Systems Engineering,Bachelors,84500.0,139600.0,48.0,106372,44500.0,2.39038202247191,3326628.0,Engineering & Technology
+61,Materials Science & Engineering,Bachelors,83700.0,139300.0,46.0,106372,43700.0,2.434141876430206,3309628.0,Engineering & Technology
+62,Biomedical Engineering (BME),Bachelors,83000.0,139000.0,71.0,106372,43000.0,2.473767441860465,3293628.0,Engineering & Technology
+63,Welding Engineering,Bachelors,89200.0,138700.0,,106372,49200.0,2.1620325203252033,3346628.0,Engineering & Technology
+64,Mining Engineering,Bachelors,87400.0,138600.0,57.0,106372,47400.0,2.2441350210970463,3325628.0,Engineering & Technology
+65,Engineering Science,Bachelors,79300.0,138500.0,48.0,106372,39300.0,2.7066666666666666,3241628.0,Engineering & Technology
+65,Industrial Hygiene,Bachelors,66700.0,138500.0,55.0,106372,26700.0,3.9839700374531835,3115628.0,Other
+65,Nuclear Engineering,Bachelors,86900.0,138500.0,57.0,106372,46900.0,2.2680597014925374,3317628.0,Engineering & Technology
+68,Paper Science,Bachelors,87400.0,138000.0,43.0,106372,47400.0,2.2441350210970463,3307628.0,Sciences & Mathematics
+69,Industrial Engineering (IE),Bachelors,83000.0,137800.0,44.0,106372,43000.0,2.473767441860465,3257628.0,Engineering & Technology
+70,Robotics & Automation,Bachelors,74700.0,137700.0,68.0,106372,34700.0,3.0654755043227664,3171628.0,Other
+70,Physics,Bachelors,77900.0,137700.0,49.0,106372,37900.0,2.8066490765171506,3203628.0,Sciences & Mathematics
+72,Integrated Science & Technology,Bachelors,73700.0,137300.0,54.0,106372,33700.0,3.1564391691394658,3149628.0,Sciences & Mathematics
+73,Business Analysis,Bachelors,73100.0,137000.0,47.0,106372,33100.0,3.213655589123867,3134628.0,Business & Economics
+74,Business & Economics,Bachelors,69000.0,136700.0,43.0,106372,29000.0,3.668,3084628.0,Business & Economics
+74,Economics and Mathematics,Bachelors,79800.0,136700.0,38.0,106372,39800.0,2.6726633165829146,3192628.0,Business & Economics
+76,Software Engineering,Bachelors,86800.0,136600.0,45.0,106372,46800.0,2.272905982905983,3259628.0,Engineering & Technology
+77,Computer & Information Science,Bachelors,78500.0,135600.0,57.0,106372,38500.0,2.762909090909091,3146628.0,Engineering & Technology
+78,Global & International Studies,Bachelors,62300.0,135100.0,55.0,106372,22300.0,4.770044843049328,2969628.0,Other
+79,Entrepreneurship & Marketing,Bachelors,66100.0,134800.0,48.0,106372,26100.0,4.075555555555556,2998628.0,Business & Economics
+80,International Economics,Bachelors,66200.0,134500.0,53.0,106372,26200.0,4.06,2990628.0,Business & Economics
+80,Materials Engineering,Bachelors,83700.0,134500.0,59.0,106372,43700.0,2.434141876430206,3165628.0,Engineering & Technology
+82,Economics,Bachelors,72900.0,134200.0,41.0,106372,32900.0,3.233191489361702,3048628.0,Business & Economics
+82,Environmental Health & Safety Management,Bachelors,69500.0,134200.0,60.0,106372,29500.0,3.6058305084745763,3014628.0,Business & Economics
+84,Interactive Media Design,Bachelors,62400.0,134100.0,33.0,106372,22400.0,4.74875,2940628.0,Arts & Communications
+85,Mechanical Engineering (ME),Bachelors,82000.0,133700.0,49.0,106372,42000.0,2.5326666666666666,3124628.0,Engineering & Technology
+85,Packaging Science,Bachelors,80700.0,133700.0,41.0,106372,40700.0,2.6135626535626537,3111628.0,Sciences & Mathematics
+87,Management Information Systems (MIS),Bachelors,76300.0,133400.0,43.0,106372,36300.0,2.930358126721763,3058628.0,Business & Economics
+88,Ceramic Engineering,Bachelors,78700.0,133200.0,,106372,38700.0,2.748630490956072,3076628.0,Engineering & Technology
+88,Structural Engineering (SE),Bachelors,79000.0,133200.0,67.0,106372,39000.0,2.7274871794871793,3079628.0,Engineering & Technology
+90,Telecommunications Engineering,Bachelors,81400.0,132800.0,53.0,106372,41400.0,2.5693719806763284,3091628.0,Engineering & Technology
+91,Construction Project Management,Bachelors,71500.0,132500.0,64.0,106372,31500.0,3.376888888888889,2983628.0,Business & Economics
+92,Finance & Real Estate,Bachelors,75700.0,132100.0,43.0,106372,35700.0,2.979607843137255,3013628.0,Business & Economics
+93,Electronics Engineering,Bachelors,81500.0,131700.0,67.0,106372,41500.0,2.563180722891566,3059628.0,Engineering & Technology
+94,Automotive Engineering,Bachelors,76600.0,131600.0,48.0,106372,36600.0,2.9063387978142075,3007628.0,Engineering & Technology
+95,Plastics Engineering,Bachelors,81500.0,131000.0,57.0,106372,41500.0,2.563180722891566,3038628.0,Engineering & Technology
+95,Mathematics & Statistics,Bachelors,74400.0,131000.0,43.0,106372,34400.0,3.0922093023255814,2967628.0,Sciences & Mathematics
+97,Information & Decision Sciences,Bachelors,75400.0,130000.0,35.0,106372,35400.0,3.004858757062147,2947628.0,Sciences & Mathematics
+98,Mechanical,Bachelors,82200.0,129900.0,,106372,42200.0,2.520663507109005,3012628.0,Other
+99,Applied Physics,Bachelors,78700.0,129800.0,52.0,106372,38700.0,2.748630490956072,2974628.0,Sciences & Mathematics
+100,Building Construction (BC),Bachelors,75500.0,129700.0,48.0,106372,35500.0,2.9963943661971832,2939628.0,Other
+101,Accounting & Economics,Bachelors,76700.0,129100.0,50.0,106372,36700.0,2.89841961852861,2933628.0,Business & Economics
+102,Psychobiology,Bachelors,60500.0,128600.0,67.0,106372,20500.0,5.188878048780488,2756628.0,Sciences & Mathematics
+103,Astrophysics,Bachelors,81600.0,128300.0,60.0,106372,41600.0,2.5570192307692308,2958628.0,Sciences & Mathematics
+103,Financial Economics,Bachelors,73200.0,128300.0,34.0,106372,33200.0,3.2039759036144577,2874628.0,Business & Economics
+105,International Business & Finance,Bachelors,71500.0,128100.0,27.0,106372,31500.0,3.376888888888889,2851628.0,Business & Economics
+106,Computing & Information Systems (CIS),Bachelors,70900.0,127700.0,47.0,106372,30900.0,3.4424595469255665,2833628.0,Other
+107,Asian Studies,Bachelors,54800.0,127500.0,44.0,106372,14800.0,7.187297297297297,2666628.0,Other
+108,Government,Bachelors,65800.0,127400.0,44.0,106372,25800.0,4.122945736434109,2773628.0,Other
+108,Nuclear Engineering Technology (NET),Bachelors,96500.0,127400.0,53.0,106372,56500.0,1.8826902654867257,3080628.0,Engineering & Technology
+108,Finance & Economics,Bachelors,72400.0,127400.0,42.0,106372,32400.0,3.2830864197530865,2839628.0,Business & Economics
+111,Marketing & International Business,Bachelors,62100.0,127200.0,40.0,106372,22100.0,4.813212669683258,2730628.0,Business & Economics
+112,Biochemistry & Molecular Biology,Bachelors,64000.0,127000.0,71.0,106372,24000.0,4.432166666666666,2743628.0,Sciences & Mathematics
+112,Information Systems Management,Bachelors,72600.0,127000.0,49.0,106372,32600.0,3.2629447852760736,2829628.0,Business & Economics
+114,Business Information Systems,Bachelors,75500.0,126600.0,45.0,106372,35500.0,2.9963943661971832,2846628.0,Business & Economics
+114,Mathematics,Bachelors,74900.0,126600.0,44.0,106372,34900.0,3.0479083094555874,2840628.0,Sciences & Mathematics
+116,Information Security & Assurance,Bachelors,70600.0,126400.0,46.0,106372,30600.0,3.4762091503267976,2791628.0,Other
+117,Civil Engineering (CE),Bachelors,75800.0,126100.0,65.0,106372,35800.0,2.9712849162011175,2834628.0,Engineering & Technology
+118,Construction Management,Bachelors,74200.0,125900.0,59.0,106372,34200.0,3.1102923976608188,2812628.0,Business & Economics
+119,Polymer Science & Engineering,Bachelors,86100.0,125800.0,,106372,46100.0,2.3074186550976137,2928628.0,Engineering & Technology
+120,International Management,Bachelors,67500.0,125700.0,,106372,27500.0,3.868072727272727,2739628.0,Business & Economics
+121,Applied Economics,Bachelors,71900.0,125600.0,41.0,106372,31900.0,3.3345454545454545,2780628.0,Business & Economics
+121,Construction Science,Bachelors,79800.0,125600.0,69.0,106372,39800.0,2.6726633165829146,2859628.0,Sciences & Mathematics
+121,Economics & Political Science,Bachelors,66100.0,125600.0,49.0,106372,26100.0,4.075555555555556,2722628.0,Business & Economics
+124,Political Communication,Bachelors,59300.0,125500.0,52.0,106372,19300.0,5.511502590673575,2651628.0,Arts & Communications
+125,Aeronautical Science,Bachelors,64900.0,125300.0,64.0,106372,24900.0,4.271967871485944,2701628.0,Sciences & Mathematics
+125,Control Engineering,Bachelors,80000.0,125300.0,61.0,106372,40000.0,2.6593,2852628.0,Engineering & Technology
+127,Russian Studies,Bachelors,57900.0,125200.0,40.0,106372,17900.0,5.942569832402235,2628628.0,Other
+128,Business Economics,Bachelors,68600.0,125100.0,45.0,106372,28600.0,3.719300699300699,2732628.0,Business & Economics
+129,Civil & Environmental Engineering,Bachelors,75900.0,124900.0,65.0,106372,35900.0,2.963008356545961,2799628.0,Engineering & Technology
+130,Business Computer Information Systems (BCIS),Bachelors,76500.0,124500.0,38.0,106372,36500.0,2.9143013698630136,2793628.0,Engineering & Technology
+131,Cybersecurity,Bachelors,74800.0,124400.0,56.0,106372,34800.0,3.0566666666666666,2773628.0,Other
+132,Engineering Management,Bachelors,79400.0,124200.0,50.0,106372,39400.0,2.6997969543147207,2813628.0,Engineering & Technology
+132,Information Systems (IS),Bachelors,75300.0,124200.0,45.0,106372,35300.0,3.0133711048158642,2772628.0,Other
+132,Manufacturing Engineering,Bachelors,79800.0,124200.0,50.0,106372,39800.0,2.6726633165829146,2817628.0,Engineering & Technology
+132,Real Estate,Bachelors,71400.0,124200.0,43.0,106372,31400.0,3.3876433121019107,2733628.0,Other
+136,Building Construction Management,Bachelors,73600.0,124100.0,68.0,106372,33600.0,3.1658333333333335,2752628.0,Business & Economics
+137,Plastics Engineering Technology,Bachelors,75000.0,124000.0,30.0,106372,35000.0,3.0392,2763628.0,Engineering & Technology
+138,International Marketing,Bachelors,67500.0,123700.0,21.0,106372,27500.0,3.868072727272727,2679628.0,Business & Economics
+139,Aviation,Bachelors,67500.0,123000.0,54.0,106372,27500.0,3.868072727272727,2658628.0,Other
+139,Biosystems Engineering,Bachelors,74800.0,123000.0,70.0,106372,34800.0,3.0566666666666666,2731628.0,Engineering & Technology
+141,Data Processing,Bachelors,75900.0,122800.0,43.0,106372,35900.0,2.963008356545961,2736628.0,Other
+141,Food Marketing,Bachelors,67100.0,122800.0,30.0,106372,27100.0,3.9251660516605167,2648628.0,Business & Economics
+143,Computer Science & Information Technology,Bachelors,76300.0,122500.0,49.0,106372,36300.0,2.930358126721763,2731628.0,Engineering & Technology
+144,Agricultural Economics,Bachelors,62400.0,122400.0,59.0,106372,22400.0,4.74875,2589628.0,Business & Economics
+144,Management & Finance,Bachelors,66100.0,122400.0,61.0,106372,26100.0,4.075555555555556,2626628.0,Business & Economics
+144,Strategic Management,Bachelors,76400.0,122400.0,50.0,106372,36400.0,2.9223076923076925,2729628.0,Business & Economics
+147,Computer Management Information Systems (CMIS),Bachelors,65800.0,122300.0,48.0,106372,25800.0,4.122945736434109,2620628.0,Engineering & Technology
+148,Organic Chemistry,Bachelors,51400.0,122200.0,,106372,11400.0,9.330877192982456,2473628.0,Sciences & Mathematics
+149,Finance,Bachelors,70800.0,122000.0,42.0,106372,30800.0,3.4536363636363636,2661628.0,Business & Economics
+150,Financial Planning,Bachelors,63300.0,121900.0,59.0,106372,23300.0,4.565321888412017,2583628.0,Other
+151,Web Development,Bachelors,64600.0,121700.0,41.0,106372,24600.0,4.324065040650407,2590628.0,Other
+152,European Studies,Bachelors,62700.0,121600.0,42.0,106372,22700.0,4.6859911894273125,2568628.0,Other
+153,Construction Engineering,Bachelors,78300.0,121300.0,61.0,106372,38300.0,2.77733681462141,2715628.0,Engineering & Technology
+154,International Relations,Bachelors,62900.0,121200.0,49.0,106372,22900.0,4.645065502183406,2558628.0,Other
+155,Molecular Biology,Bachelors,64300.0,121100.0,67.0,106372,24300.0,4.377448559670782,2569628.0,Sciences & Mathematics
+155,International Business,Bachelors,65100.0,121100.0,40.0,106372,25100.0,4.23792828685259,2577628.0,Business & Economics
+157,Computer Information Systems (CIS),Bachelors,71700.0,121000.0,48.0,106372,31700.0,3.355583596214511,2640628.0,Engineering & Technology
+158,Information Security,Bachelors,76400.0,120700.0,40.0,106372,36400.0,2.9223076923076925,2678628.0,Other
+158,Japanese Language,Bachelors,62100.0,120700.0,39.0,106372,22100.0,4.813212669683258,2535628.0,Humanities & Social Sciences
+160,East Asian Studies,Bachelors,60100.0,120400.0,50.0,106372,20100.0,5.292139303482587,2506628.0,Other
+161,Economics & Management,Bachelors,62800.0,120100.0,,106372,22800.0,4.665438596491228,2524628.0,Business & Economics
+162,European History,Bachelors,62700.0,120000.0,39.0,106372,22700.0,4.6859911894273125,2520628.0,Humanities & Social Sciences
+163,Agricultural Engineering (AE),Bachelors,73500.0,119900.0,60.0,106372,33500.0,3.1752835820895524,2625628.0,Engineering & Technology
+164,Architectural Engineering,Bachelors,76400.0,119800.0,58.0,106372,36400.0,2.9223076923076925,2651628.0,Engineering & Technology
+164,Entrepreneurship & Leadership,Bachelors,67000.0,119800.0,42.0,106372,27000.0,3.9397037037037035,2557628.0,Other
+164,Computing,Bachelors,73400.0,119800.0,56.0,106372,33400.0,3.1847904191616765,2621628.0,Other
+167,Information Technology Management,Bachelors,74100.0,119700.0,50.0,106372,34100.0,3.1194134897360706,2625628.0,Engineering & Technology
+168,Electrical Engineering Technology (EET),Bachelors,76100.0,119600.0,49.0,106372,36100.0,2.9465927977839335,2642628.0,Engineering & Technology
+169,Chinese Language,Bachelors,62700.0,119500.0,42.0,106372,22700.0,4.6859911894273125,2505628.0,Humanities & Social Sciences
+170,Business Finance,Bachelors,67100.0,119400.0,44.0,106372,27100.0,3.9251660516605167,2546628.0,Business & Economics
+171,Sales & Business Marketing,Bachelors,67000.0,119300.0,53.0,106372,27000.0,3.9397037037037035,2542628.0,Business & Economics
+172,Safety Science,Bachelors,72600.0,119200.0,67.0,106372,32600.0,3.2629447852760736,2595628.0,Sciences & Mathematics
+173,Corporate Finance,Bachelors,74500.0,119100.0,40.0,106372,34500.0,3.0832463768115943,2611628.0,Business & Economics
+174,Industrial Distribution,Bachelors,73600.0,118900.0,48.0,106372,33600.0,3.1658333333333335,2596628.0,Other
+175,Computer Engineering Technology (CET),Bachelors,72900.0,118800.0,44.0,106372,32900.0,3.233191489361702,2586628.0,Engineering & Technology
+176,Dairy Science,Bachelors,60100.0,118300.0,68.0,106372,20100.0,5.292139303482587,2443628.0,Sciences & Mathematics
+177,Japanese Studies,Bachelors,59700.0,118100.0,18.0,106372,19700.0,5.399593908629441,2433628.0,Other
+178,Network Engineering,Bachelors,71500.0,118000.0,51.0,106372,31500.0,3.376888888888889,2548628.0,Engineering & Technology
+179,Environmental Engineering,Bachelors,72600.0,117700.0,61.0,106372,32600.0,3.2629447852760736,2550628.0,Engineering & Technology
+180,Accounting & Taxation,Bachelors,60000.0,117500.0,,106372,20000.0,5.3186,2418628.0,Business & Economics
+181,Robotics,Bachelors,91100.0,117400.0,57.0,106372,51100.0,2.0816438356164384,2726628.0,Other
+182,Biotechnology,Bachelors,63000.0,116900.0,61.0,106372,23000.0,4.6248695652173915,2430628.0,Other
+183,Accounting & Finance,Bachelors,69100.0,116700.0,46.0,106372,29100.0,3.6553951890034364,2485628.0,Business & Economics
+184,Mechanical Engineering Technology (MET),Bachelors,74200.0,116500.0,49.0,106372,34200.0,3.1102923976608188,2530628.0,Engineering & Technology
+185,Operations Management (OM),Bachelors,72100.0,116200.0,44.0,106372,32100.0,3.3137694704049845,2500628.0,Business & Economics
+186,Food Science & Technology,Bachelors,61700.0,116100.0,49.0,106372,21700.0,4.901935483870968,2393628.0,Sciences & Mathematics
+187,Agricultural Economics & Business,Bachelors,63700.0,115800.0,56.0,106372,23700.0,4.488270042194093,2404628.0,Business & Economics
+188,Biochemistry (BCH),Bachelors,58900.0,115600.0,64.0,106372,18900.0,5.628148148148148,2350628.0,Sciences & Mathematics
+188,Computer Networking Systems,Bachelors,67100.0,115600.0,49.0,106372,27100.0,3.9251660516605167,2432628.0,Engineering & Technology
+188,Product Design,Bachelors,72100.0,115600.0,38.0,106372,32100.0,3.3137694704049845,2482628.0,Arts & Communications
+191,Mechanical Design,Bachelors,70000.0,115500.0,50.0,106372,30000.0,3.545733333333333,2458628.0,Arts & Communications
+192,Labor Relations,Bachelors,59500.0,115300.0,42.0,106372,19500.0,5.454974358974359,2347628.0,Other
+192,Information Assurance,Bachelors,63500.0,115300.0,60.0,106372,23500.0,4.526468085106383,2387628.0,Other
+194,Business Operations,Bachelors,64600.0,115100.0,,106372,24600.0,4.324065040650407,2392628.0,Business & Economics
+195,Environmental Policy Analysis & Planning,Bachelors,60800.0,114900.0,68.0,106372,20800.0,5.1140384615384615,2348628.0,Other
+196,Information Technology (IT),Bachelors,69800.0,114800.0,47.0,106372,29800.0,3.569530201342282,2435628.0,Engineering & Technology
+196,International Development Studies,Bachelors,57200.0,114800.0,62.0,106372,17200.0,6.184418604651163,2309628.0,Other
+198,Rhetoric,Bachelors,60300.0,114700.0,42.0,106372,20300.0,5.24,2337628.0,Other
+199,Aviation Management,Bachelors,58900.0,114600.0,58.0,106372,18900.0,5.628148148148148,2320628.0,Business & Economics
+199,Consumer Economics,Bachelors,62400.0,114600.0,45.0,106372,22400.0,4.74875,2355628.0,Business & Economics
+201,Electromechanical Engineering,Bachelors,82400.0,114500.0,62.0,106372,42400.0,2.5087735849056605,2552628.0,Engineering & Technology
+201,Informatics,Bachelors,81600.0,114500.0,45.0,106372,41600.0,2.5570192307692308,2544628.0,Other
+203,Computer Security,Bachelors,78500.0,114100.0,40.0,106372,38500.0,2.762909090909091,2501628.0,Engineering & Technology
+203,Software Applications & Programming,Bachelors,73700.0,114100.0,33.0,106372,33700.0,3.1564391691394658,2453628.0,Engineering & Technology
+203,Business & Marketing,Bachelors,61400.0,114100.0,47.0,106372,21400.0,4.9706542056074765,2330628.0,Business & Economics
+206,Social Ecology,Bachelors,56200.0,114000.0,,106372,16200.0,6.566172839506173,2275628.0,Humanities & Social Sciences
+207,Accounting & Auditing,Bachelors,67600.0,113900.0,42.0,106372,27600.0,3.854057971014493,2386628.0,Business & Economics
+207,Database Management,Bachelors,78600.0,113900.0,,106372,38600.0,2.7557512953367875,2496628.0,Business & Economics
+207,Industrial Management,Bachelors,67800.0,113900.0,51.0,106372,27800.0,3.8263309352517987,2388628.0,Business & Economics
+210,Politics,Bachelors,61300.0,113800.0,50.0,106372,21300.0,4.9939906103286384,2320628.0,Other
+211,Business Technology Management,Bachelors,69000.0,113700.0,,106372,29000.0,3.668,2394628.0,Business & Economics
+211,Construction Science & Management,Bachelors,75700.0,113700.0,73.0,106372,35700.0,2.979607843137255,2461628.0,Business & Economics
+211,Political Science/Public Law,Bachelors,60000.0,113700.0,70.0,106372,20000.0,5.3186,2304628.0,Sciences & Mathematics
+211,Government & International Politics (GVIP),Bachelors,60700.0,113700.0,43.0,106372,20700.0,5.138743961352657,2311628.0,Other
+215,Aviation Flight Science (AFL),Bachelors,64200.0,113500.0,49.0,106372,24200.0,4.395537190082645,2340628.0,Sciences & Mathematics
+216,Engineering Technology (ET),Bachelors,67600.0,113400.0,50.0,106372,27600.0,3.854057971014493,2371628.0,Engineering & Technology
+217,Information Technology (IT) & Systems,Bachelors,72000.0,113300.0,48.0,106372,32000.0,3.324125,2412628.0,Engineering & Technology
+218,Telecommunications Management,Bachelors,64700.0,112900.0,44.0,106372,24700.0,4.306558704453441,2327628.0,Business & Economics
+219,Agribusiness,Bachelors,58600.0,112700.0,54.0,106372,18600.0,5.7189247311827955,2260628.0,Business & Economics
+219,Occupational Health and Safety,Bachelors,69000.0,112700.0,69.0,106372,29000.0,3.668,2364628.0,Health & Medicine
+219,Physical Therapy,Bachelors,57500.0,112700.0,88.0,106372,17500.0,6.0784,2249628.0,Health & Medicine
+222,Industrial Safety,Bachelors,61100.0,112600.0,80.0,106372,21100.0,5.04132701421801,2282628.0,Other
+222,Music Production & Engineering,Bachelors,55100.0,112600.0,51.0,106372,15100.0,7.044503311258278,2222628.0,Engineering & Technology
+224,Business & Finance,Bachelors,63400.0,112400.0,56.0,106372,23400.0,4.545811965811966,2299628.0,Business & Economics
+224,Civil Engineering Technology (CET),Bachelors,67900.0,112400.0,60.0,106372,27900.0,3.8126164874551973,2344628.0,Engineering & Technology
+226,Chemistry,Bachelors,60200.0,112300.0,56.0,106372,20200.0,5.265940594059406,2264628.0,Sciences & Mathematics
+226,French Literature,Bachelors,56300.0,112300.0,50.0,106372,16300.0,6.525889570552147,2225628.0,Humanities & Social Sciences
+228,Operations & Supply Chain Management,Bachelors,71500.0,112200.0,45.0,106372,31500.0,3.376888888888889,2374628.0,Business & Economics
+229,Computer Information Systems,Bachelors,67100.0,111900.0,45.0,106372,27100.0,3.9251660516605167,2321628.0,Engineering & Technology
+229,Marketing,Bachelors,60200.0,111900.0,41.0,106372,20200.0,5.265940594059406,2252628.0,Business & Economics
+231,Finance & Banking,Bachelors,65100.0,111800.0,46.0,106372,25100.0,4.23792828685259,2298628.0,Business & Economics
+232,Computer Programming,Bachelors,68800.0,111700.0,50.0,106372,28800.0,3.6934722222222223,2332628.0,Engineering & Technology
+233,Marketing & Management,Bachelors,59700.0,111500.0,47.0,106372,19700.0,5.399593908629441,2235628.0,Business & Economics
+233,Supply Chain Management,Bachelors,71300.0,111500.0,42.0,106372,31300.0,3.3984664536741214,2351628.0,Business & Economics
+235,Technical Communication,Bachelors,57200.0,111400.0,44.0,106372,17200.0,6.184418604651163,2207628.0,Arts & Communications
+236,Cell Biology,Bachelors,58500.0,111300.0,59.0,106372,18500.0,5.749837837837838,2217628.0,Sciences & Mathematics
+237,Networks & Telecommunications,Bachelors,64600.0,111100.0,49.0,106372,24600.0,4.324065040650407,2272628.0,Arts & Communications
+238,Electronics Engineering Technology (EET),Bachelors,74500.0,110800.0,50.0,106372,34500.0,3.0832463768115943,2362628.0,Engineering & Technology
+239,Biopsychology,Bachelors,61600.0,110700.0,74.0,106372,21600.0,4.92462962962963,2230628.0,Other
+239,Applied Networking & Systems Administration,Bachelors,67500.0,110700.0,48.0,106372,27500.0,3.868072727272727,2289628.0,Other
+241,Geological Engineering,Bachelors,70500.0,110600.0,50.0,106372,30500.0,3.4876065573770494,2316628.0,Engineering & Technology
+242,Business Management & Marketing,Bachelors,58700.0,110500.0,46.0,106372,18700.0,5.688342245989305,2195628.0,Business & Economics
+242,Spanish Literature,Bachelors,59500.0,110500.0,48.0,106372,19500.0,5.454974358974359,2203628.0,Humanities & Social Sciences
+244,Real Estate Development,Bachelors,68900.0,110400.0,,106372,28900.0,3.6806920415224913,2294628.0,Other
+245,Electronics & Computer Technology,Bachelors,62300.0,110300.0,,106372,22300.0,4.770044843049328,2225628.0,Engineering & Technology
+245,Industrial Technology (IT),Bachelors,74100.0,110300.0,48.0,106372,34100.0,3.1194134897360706,2343628.0,Other
+247,Accounts,Bachelors,69100.0,110200.0,44.0,106372,29100.0,3.6553951890034364,2290628.0,Other
+247,Construction Technology,Bachelors,73700.0,110200.0,,106372,33700.0,3.1564391691394658,2336628.0,Other
+247,Risk Management,Bachelors,65700.0,110200.0,53.0,106372,25700.0,4.138988326848249,2256628.0,Business & Economics
+250,Industrial Engineering Technology,Bachelors,77600.0,110100.0,50.0,106372,37600.0,2.8290425531914893,2372628.0,Engineering & Technology
+250,Genetics,Bachelors,63200.0,110100.0,73.0,106372,23200.0,4.585,2228628.0,Other
+252,Government & Politics,Bachelors,62100.0,110000.0,51.0,106372,22100.0,4.813212669683258,2214628.0,Other
+252,Microbiology & Immunology,Bachelors,65400.0,110000.0,75.0,106372,25400.0,4.187874015748031,2247628.0,Sciences & Mathematics
+254,Digital Design,Bachelors,57800.0,109700.0,40.0,106372,17800.0,5.975955056179775,2162628.0,Arts & Communications
+254,Hotel Management,Bachelors,58000.0,109700.0,47.0,106372,18000.0,5.9095555555555555,2164628.0,Business & Economics
+254,Italian Language,Bachelors,58400.0,109700.0,41.0,106372,18400.0,5.781086956521739,2168628.0,Humanities & Social Sciences
+254,Safety Management,Bachelors,69300.0,109700.0,67.0,106372,29300.0,3.630443686006826,2277628.0,Business & Economics
+258,Environmental Health & Safety,Bachelors,66500.0,109600.0,66.0,106372,26500.0,4.014037735849056,2246628.0,Health & Medicine
+258,Marketing Communication,Bachelors,54700.0,109600.0,42.0,106372,14700.0,7.236190476190476,2128628.0,Business & Economics
+258,Political Science,Bachelors,59800.0,109600.0,47.0,106372,19800.0,5.372323232323232,2179628.0,Sciences & Mathematics
+258,Welding Engineering Technology,Bachelors,83700.0,109600.0,44.0,106372,43700.0,2.434141876430206,2418628.0,Engineering & Technology
+262,Industrial Psychology,Bachelors,58100.0,109500.0,50.0,106372,18100.0,5.876906077348067,2159628.0,Other
+263,Pharmaceutical Sciences (PS),Bachelors,62000.0,109200.0,67.0,106372,22000.0,4.835090909090909,2189628.0,Sciences & Mathematics
+263,Marketing & Communications,Bachelors,58400.0,109200.0,46.0,106372,18400.0,5.781086956521739,2153628.0,Business & Economics
+265,Network Security,Bachelors,69900.0,109100.0,52.0,106372,29900.0,3.557591973244147,2265628.0,Other
+266,Industrial Design (ID),Bachelors,64600.0,109000.0,40.0,106372,24600.0,4.324065040650407,2209628.0,Arts & Communications
+266,Sales & Marketing,Bachelors,62800.0,109000.0,48.0,106372,22800.0,4.665438596491228,2191628.0,Business & Economics
+268,Environmental Science & Policy,Bachelors,58800.0,108800.0,57.0,106372,18800.0,5.658085106382979,2145628.0,Sciences & Mathematics
+268,Organizational Behavior,Bachelors,65200.0,108800.0,57.0,106372,25200.0,4.221111111111111,2209628.0,Other
+270,Business Data Analysis,Bachelors,74800.0,108700.0,38.0,106372,34800.0,3.0566666666666666,2302628.0,Business & Economics
+271,Physics & Astronomy,Bachelors,67800.0,108600.0,32.0,106372,27800.0,3.8263309352517987,2229628.0,Sciences & Mathematics
+272,Philosophy,Bachelors,62700.0,108400.0,42.0,106372,22700.0,4.6859911894273125,2172628.0,Humanities & Social Sciences
+273,Accounting,Bachelors,64200.0,108300.0,42.0,106372,24200.0,4.395537190082645,2184628.0,Business & Economics
+273,German Language,Bachelors,60600.0,108300.0,43.0,106372,20600.0,5.163689320388349,2148628.0,Humanities & Social Sciences
+273,Comparative Literature,Bachelors,54500.0,108300.0,49.0,106372,14500.0,7.336,2087628.0,Humanities & Social Sciences
+276,Architecture,Bachelors,60000.0,108100.0,52.0,106372,20000.0,5.3186,2136628.0,Other
+277,Advertising Design,Bachelors,63200.0,108000.0,32.0,106372,23200.0,4.585,2165628.0,Arts & Communications
+278,Accounting & Computer Systems,Bachelors,77800.0,107500.0,,106372,37800.0,2.814074074074074,2296628.0,Engineering & Technology
+278,Financial Accounting,Bachelors,65600.0,107500.0,49.0,106372,25600.0,4.15515625,2174628.0,Business & Economics
+280,Risk Management & Insurance,Bachelors,69700.0,107400.0,46.0,106372,29700.0,3.5815488215488216,2212628.0,Business & Economics
+281,Urban Planning,Bachelors,57600.0,107300.0,56.0,106372,17600.0,6.043863636363636,2088628.0,Other
+282,Accounting & Management,Bachelors,63900.0,107000.0,55.0,106372,23900.0,4.45071129707113,2142628.0,Business & Economics
+282,Cell & Molecular Biology,Bachelors,59800.0,107000.0,66.0,106372,19800.0,5.372323232323232,2101628.0,Sciences & Mathematics
+282,Manufacturing Management,Bachelors,73200.0,107000.0,41.0,106372,33200.0,3.2039759036144577,2235628.0,Business & Economics
+285,Computer & Network Administration,Bachelors,65700.0,106800.0,46.0,106372,25700.0,4.138988326848249,2154628.0,Engineering & Technology
+286,Occupational Therapy (OT),Bachelors,63500.0,106700.0,86.0,106372,23500.0,4.526468085106383,2129628.0,Health & Medicine
+287,Manufacturing Engineering Technology,Bachelors,76800.0,106500.0,50.0,106372,36800.0,2.8905434782608697,2256628.0,Engineering & Technology
+288,Advertising,Bachelors,55100.0,106400.0,33.0,106372,15100.0,7.044503311258278,2036628.0,Other
+288,Project Management,Bachelors,66500.0,106400.0,56.0,106372,26500.0,4.014037735849056,2150628.0,Business & Economics
+290,Organizational Psychology,Bachelors,58100.0,106300.0,52.0,106372,18100.0,5.876906077348067,2063628.0,Other
+291,Insurance,Bachelors,66100.0,106200.0,51.0,106372,26100.0,4.075555555555556,2140628.0,Other
+292,Labor Studies,Bachelors,55300.0,106000.0,50.0,106372,15300.0,6.952418300653595,2026628.0,Other
+293,Applied Computer Science,Bachelors,76500.0,105900.0,41.0,106372,36500.0,2.9143013698630136,2235628.0,Engineering & Technology
+293,Geology,Bachelors,57800.0,105900.0,55.0,106372,17800.0,5.975955056179775,2048628.0,Other
+293,Marketing Management,Bachelors,60900.0,105900.0,41.0,106372,20900.0,5.089569377990431,2079628.0,Business & Economics
+296,Design,Bachelors,62400.0,105800.0,39.0,106372,22400.0,4.74875,2091628.0,Arts & Communications
+296,Radiation Therapy,Bachelors,78100.0,105800.0,91.0,106372,38100.0,2.7919160104986878,2248628.0,Health & Medicine
+296,Strategic Communication,Bachelors,54900.0,105800.0,43.0,106372,14900.0,7.139060402684564,2016628.0,Arts & Communications
+296,Transportation & Logistics Management,Bachelors,67700.0,105800.0,48.0,106372,27700.0,3.84014440433213,2144628.0,Business & Economics
+300,Electronic Systems Technology (EST),Bachelors,89500.0,105600.0,44.0,106372,49500.0,2.148929292929293,2356628.0,Other
+300,Latin American Studies,Bachelors,54900.0,105600.0,60.0,106372,14900.0,7.139060402684564,2010628.0,Other
+302,Agronomy,Bachelors,56400.0,105300.0,67.0,106372,16400.0,6.48609756097561,2016628.0,Other
+302,Environmental Health,Bachelors,58500.0,105300.0,68.0,106372,18500.0,5.749837837837838,2037628.0,Health & Medicine
+304,Applied Technology,Bachelors,67500.0,105200.0,49.0,106372,27500.0,3.868072727272727,2124628.0,Other
+305,Accounting Information Systems,Bachelors,73000.0,104800.0,54.0,106372,33000.0,3.2233939393939393,2167628.0,Business & Economics
+305,Crop Science,Bachelors,56400.0,104800.0,56.0,106372,16400.0,6.48609756097561,2001628.0,Sciences & Mathematics
+305,Microbiology,Bachelors,56800.0,104800.0,69.0,106372,16800.0,6.331666666666667,2005628.0,Sciences & Mathematics
+308,Speech & Drama,Bachelors,47100.0,104700.0,,106372,7100.0,14.981971830985916,1905628.0,Other
+309,Entrepreneurship,Bachelors,63600.0,104300.0,47.0,106372,23600.0,4.50728813559322,2058628.0,Other
+309,Corporate Communications,Bachelors,57300.0,104300.0,46.0,106372,17300.0,6.148670520231214,1995628.0,Arts & Communications
+311,Environmental Design,Bachelors,55600.0,104200.0,54.0,106372,15600.0,6.818717948717949,1975628.0,Arts & Communications
+312,Advertising & Marketing Communications,Bachelors,56800.0,104100.0,39.0,106372,16800.0,6.331666666666667,1984628.0,Business & Economics
+313,Digital Media Design,Bachelors,53800.0,104000.0,27.0,106372,13800.0,7.708115942028986,1951628.0,Arts & Communications
+313,Hotel Administration,Bachelors,79700.0,104000.0,35.0,106372,39700.0,2.679395465994962,2210628.0,Other
+313,Math & Science,Bachelors,65900.0,104000.0,66.0,106372,25900.0,4.107027027027027,2072628.0,Sciences & Mathematics
+316,Aeronautics,Bachelors,72600.0,103900.0,62.0,106372,32600.0,3.2629447852760736,2136628.0,Other
+317,International Studies,Bachelors,58100.0,103800.0,50.0,106372,18100.0,5.876906077348067,1988628.0,Other
+317,Urban & Regional Planning,Bachelors,61700.0,103800.0,60.0,106372,21700.0,4.901935483870968,2024628.0,Other
+319,Computer Graphics Technology (CGT),Bachelors,59400.0,103700.0,45.0,106372,19400.0,5.483092783505155,1998628.0,Engineering & Technology
+320,Food Science,Bachelors,62500.0,103400.0,49.0,106372,22500.0,4.7276444444444445,2020628.0,Sciences & Mathematics
+321,Global Business Management,Bachelors,65700.0,103100.0,52.0,106372,25700.0,4.138988326848249,2043628.0,Business & Economics
+321,Police Science,Bachelors,63400.0,103100.0,,106372,23400.0,4.545811965811966,2020628.0,Sciences & Mathematics
+323,Product Design Engineering,Bachelors,75700.0,102900.0,41.0,106372,35700.0,2.979607843137255,2137628.0,Engineering & Technology
+324,Anthropology & English,Bachelors,53100.0,102700.0,,106372,13100.0,8.12,1905628.0,Humanities & Social Sciences
+324,Construction Engineering Technology,Bachelors,65700.0,102700.0,60.0,106372,25700.0,4.138988326848249,2031628.0,Engineering & Technology
+326,Sociology & Organizational Studies,Bachelors,63800.0,102500.0,53.0,106372,23800.0,4.469411764705883,2006628.0,Other
+327,Management & Organization,Bachelors,79500.0,102400.0,53.0,106372,39500.0,2.6929620253164557,2160628.0,Business & Economics
+328,Logistics,Bachelors,67900.0,102300.0,41.0,106372,27900.0,3.8126164874551973,2041628.0,Other
+329,Information Systems Security,Bachelors,66200.0,102100.0,51.0,106372,26200.0,4.06,2018628.0,Other
+329,International Affairs,Bachelors,60300.0,102100.0,51.0,106372,20300.0,5.24,1959628.0,Other
+331,Biological Sciences,Bachelors,58600.0,101900.0,67.0,106372,18600.0,5.7189247311827955,1936628.0,Sciences & Mathematics
+331,Personal Financial Planning,Bachelors,62700.0,101900.0,59.0,106372,22700.0,4.6859911894273125,1977628.0,Other
+333,Environmental Science,Bachelors,57800.0,101600.0,61.0,106372,17800.0,5.975955056179775,1919628.0,Sciences & Mathematics
+334,Theatre & Drama Studies,Bachelors,54800.0,101400.0,50.0,106372,14800.0,7.187297297297297,1883628.0,Other
+335,Cinema Studies,Bachelors,54800.0,101200.0,37.0,106372,14800.0,7.187297297297297,1877628.0,Other
+335,Land Surveying,Bachelors,59400.0,101200.0,57.0,106372,19400.0,5.483092783505155,1923628.0,Other
+337,Business Communication,Bachelors,60000.0,100800.0,47.0,106372,20000.0,5.3186,1917628.0,Business & Economics
+338,German Studies,Bachelors,58600.0,100600.0,45.0,106372,18600.0,5.7189247311827955,1897628.0,Other
+338,New Media Design,Bachelors,64900.0,100600.0,28.0,106372,24900.0,4.271967871485944,1960628.0,Arts & Communications
+340,International Trade & Business,Bachelors,62800.0,100300.0,23.0,106372,22800.0,4.665438596491228,1930628.0,Business & Economics
+340,Technology,Bachelors,64900.0,100300.0,,106372,24900.0,4.271967871485944,1951628.0,Other
+340,Textile & Apparel Studies,Bachelors,55000.0,100300.0,24.0,106372,15000.0,7.091466666666666,1852628.0,Other
+343,Advertising & Promotion,Bachelors,55100.0,100200.0,47.0,106372,15100.0,7.044503311258278,1850628.0,Other
+343,City & Regional Planning,Bachelors,61600.0,100200.0,69.0,106372,21600.0,4.92462962962963,1915628.0,Other
+345,Advertising & Marketing,Bachelors,57000.0,99800.0,39.0,106372,17000.0,6.257176470588235,1857628.0,Business & Economics
+346,Aviation Maintenance Technology,Bachelors,59000.0,99700.0,62.0,106372,19000.0,5.598526315789473,1874628.0,Other
+346,English Literature,Bachelors,55600.0,99700.0,46.0,106372,15600.0,6.818717948717949,1840628.0,Humanities & Social Sciences
+346,Urban Studies,Bachelors,59500.0,99700.0,60.0,106372,19500.0,5.454974358974359,1879628.0,Other
+346,Agricultural Science,Bachelors,55100.0,99700.0,51.0,106372,15100.0,7.044503311258278,1835628.0,Sciences & Mathematics
+350,Management,Bachelors,59800.0,99600.0,49.0,106372,19800.0,5.372323232323232,1879628.0,Business & Economics
+351,History & Politics,Bachelors,56500.0,99400.0,59.0,106372,16500.0,6.4467878787878785,1840628.0,Humanities & Social Sciences
+351,Human Biology,Bachelors,59500.0,99400.0,72.0,106372,19500.0,5.454974358974359,1870628.0,Sciences & Mathematics
+353,Automotive Technology,Bachelors,57300.0,99300.0,52.0,106372,17300.0,6.148670520231214,1845628.0,Other
+353,Fashion Design,Bachelors,55500.0,99300.0,28.0,106372,15500.0,6.862709677419355,1827628.0,Arts & Communications
+353,Magazine Journalism,Bachelors,56400.0,99300.0,38.0,106372,16400.0,6.48609756097561,1836628.0,Other
+356,Textile Technology,Bachelors,62300.0,99200.0,39.0,106372,22300.0,4.770044843049328,1892628.0,Other
+356,American History (United States),Bachelors,60700.0,99200.0,51.0,106372,20700.0,5.138743961352657,1876628.0,Humanities & Social Sciences
+356,Architectural Technology,Bachelors,57400.0,99200.0,60.0,106372,17400.0,6.113333333333333,1843628.0,Other
+359,Organizational Development,Bachelors,62300.0,99100.0,57.0,106372,22300.0,4.770044843049328,1889628.0,Other
+360,Business Administration,Bachelors,62100.0,99000.0,51.0,106372,22100.0,4.813212669683258,1884628.0,Business & Economics
+360,Interior Architecture,Bachelors,55300.0,99000.0,49.0,106372,15300.0,6.952418300653595,1816628.0,Other
+360,Journalism & Mass Communication,Bachelors,54500.0,99000.0,45.0,106372,14500.0,7.336,1808628.0,Arts & Communications
+363,Business Administration & Accounting,Bachelors,61600.0,98900.0,54.0,106372,21600.0,4.92462962962963,1876628.0,Business & Economics
+364,Environmental & Natural Resource Economics,Bachelors,60600.0,98800.0,66.0,106372,20600.0,5.163689320388349,1863628.0,Business & Economics
+365,Neuroscience,Bachelors,60900.0,98700.0,60.0,106372,20900.0,5.089569377990431,1863628.0,Sciences & Mathematics
+366,Business Management,Bachelors,60800.0,98600.0,52.0,106372,20800.0,5.1140384615384615,1859628.0,Business & Economics
+367,Computer Aided Drafting & Design (CADD),Bachelors,58000.0,98400.0,51.0,106372,18000.0,5.9095555555555555,1825628.0,Engineering & Technology
+367,Drama,Bachelors,57300.0,98400.0,43.0,106372,17300.0,6.148670520231214,1818628.0,Other
+369,Bachelor in Science Nursing,Bachelors,78500.0,98300.0,87.0,106372,38500.0,2.762909090909091,2027628.0,Sciences & Mathematics
+370,Linguistics,Bachelors,60800.0,98200.0,43.0,106372,20800.0,5.1140384615384615,1847628.0,Other
+371,Communication,Bachelors,56900.0,98100.0,46.0,106372,16900.0,6.2942011834319525,1805628.0,Arts & Communications
+371,Nursing Science,Bachelors,77900.0,98100.0,84.0,106372,37900.0,2.8066490765171506,2015628.0,Sciences & Mathematics
+371,Writing,Bachelors,51400.0,98100.0,45.0,106372,11400.0,9.330877192982456,1750628.0,Other
+374,French Language,Bachelors,57800.0,98000.0,48.0,106372,17800.0,5.975955056179775,1811628.0,Humanities & Social Sciences
+375,Integrated Marketing Communications,Bachelors,55100.0,97900.0,37.0,106372,15100.0,7.044503311258278,1781628.0,Business & Economics
+376,Architectural Design,Bachelors,52000.0,97600.0,57.0,106372,12000.0,8.864333333333333,1741628.0,Arts & Communications
+377,Logistics Management,Bachelors,67900.0,97500.0,38.0,106372,27900.0,3.8126164874551973,1897628.0,Business & Economics
+377,Natural Sciences,Bachelors,51600.0,97500.0,57.0,106372,11600.0,9.17,1734628.0,Sciences & Mathematics
+377,Public Affairs,Bachelors,61100.0,97500.0,51.0,106372,21100.0,5.04132701421801,1829628.0,Other
+380,Journalism,Bachelors,54200.0,97400.0,44.0,106372,14200.0,7.490985915492958,1757628.0,Other
+380,Technical Management,Bachelors,74800.0,97400.0,68.0,106372,34800.0,3.0566666666666666,1963628.0,Business & Economics
+380,General Science,Bachelors,58300.0,97400.0,59.0,106372,18300.0,5.812677595628415,1798628.0,Sciences & Mathematics
+383,French Studies,Bachelors,60700.0,97300.0,59.0,106372,20700.0,5.138743961352657,1819628.0,Other
+383,Marketing & Mass Communications,Bachelors,56500.0,97300.0,40.0,106372,16500.0,6.4467878787878785,1777628.0,Business & Economics
+383,Biology & Chemistry,Bachelors,57300.0,97300.0,66.0,106372,17300.0,6.148670520231214,1785628.0,Sciences & Mathematics
+386,Digital Media,Bachelors,53200.0,97200.0,38.0,106372,13200.0,8.058484848484849,1741628.0,Arts & Communications
+387,Professional & Technical Writing,Bachelors,57300.0,96900.0,47.0,106372,17300.0,6.148670520231214,1773628.0,Other
+387,Public Relations & Communication,Bachelors,53200.0,96900.0,49.0,106372,13200.0,8.058484848484849,1732628.0,Arts & Communications
+389,Textile Design,Bachelors,58400.0,96800.0,36.0,106372,18400.0,5.781086956521739,1781628.0,Arts & Communications
+390,Finance & Marketing,Bachelors,69100.0,96700.0,42.0,106372,29100.0,3.6553951890034364,1885628.0,Business & Economics
+390,Law,Bachelors,61600.0,96700.0,52.0,106372,21600.0,4.92462962962963,1810628.0,Other
+392,Nursing,Bachelors,75300.0,96600.0,82.0,106372,35300.0,3.0133711048158642,1944628.0,Health & Medicine
+392,Organizational Communication,Bachelors,54100.0,96600.0,49.0,106372,14100.0,7.544113475177305,1732628.0,Arts & Communications
+394,Architectural Studies,Bachelors,52500.0,96500.0,38.0,106372,12500.0,8.50976,1713628.0,Other
+394,Global Business,Bachelors,65400.0,96500.0,31.0,106372,25400.0,4.187874015748031,1842628.0,Business & Economics
+394,Hydrology,Bachelors,53000.0,96500.0,,106372,13000.0,8.182461538461538,1718628.0,Other
+394,Literature,Bachelors,54800.0,96500.0,45.0,106372,14800.0,7.187297297297297,1736628.0,Humanities & Social Sciences
+394,Agriculture,Bachelors,55100.0,96500.0,61.0,106372,15100.0,7.044503311258278,1739628.0,Other
+399,Physiology,Bachelors,57100.0,96300.0,66.0,106372,17100.0,6.2205847953216376,1753628.0,Other
+400,Music Technology,Bachelors,53000.0,96200.0,39.0,106372,13000.0,8.182461538461538,1709628.0,Arts & Communications
+400,Pre-Medicine,Bachelors,59100.0,96200.0,69.0,106372,19100.0,5.569214659685864,1770628.0,Health & Medicine
+400,Web & Digital Media Development,Bachelors,62700.0,96200.0,37.0,106372,22700.0,4.6859911894273125,1806628.0,Arts & Communications
+403,General Business,Bachelors,58000.0,96100.0,51.0,106372,18000.0,5.9095555555555555,1756628.0,Business & Economics
+403,Public Relations (PR),Bachelors,53500.0,96100.0,43.0,106372,13500.0,7.879407407407407,1711628.0,Other
+403,History & Political Science,Bachelors,58900.0,96100.0,48.0,106372,18900.0,5.628148148148148,1765628.0,Sciences & Mathematics
+406,Administration of Justice,Bachelors,52800.0,96000.0,53.0,106372,12800.0,8.3103125,1701628.0,Other
+406,Biology,Bachelors,55300.0,96000.0,66.0,106372,15300.0,6.952418300653595,1726628.0,Sciences & Mathematics
+406,Web Design & Development,Bachelors,63000.0,96000.0,45.0,106372,23000.0,4.6248695652173915,1803628.0,Arts & Communications
+409,Personnel Management,Bachelors,59600.0,95900.0,67.0,106372,19600.0,5.427142857142857,1766628.0,Business & Economics
+410,Computer Animation,Bachelors,54800.0,95800.0,42.0,106372,14800.0,7.187297297297297,1715628.0,Engineering & Technology
+410,Quality Management,Bachelors,73300.0,95800.0,64.0,106372,33300.0,3.1943543543543544,1900628.0,Business & Economics
+410,Retail & Consumer Science,Bachelors,61600.0,95800.0,26.0,106372,21600.0,4.92462962962963,1783628.0,Sciences & Mathematics
+413,Environmental Management,Bachelors,59100.0,95700.0,63.0,106372,19100.0,5.569214659685864,1755628.0,Business & Economics
+414,History,Bachelors,56200.0,95600.0,47.0,106372,16200.0,6.566172839506173,1723628.0,Humanities & Social Sciences
+415,Environmental Biology,Bachelors,52100.0,95500.0,68.0,106372,12100.0,8.79107438016529,1679628.0,Sciences & Mathematics
+415,Media Studies,Bachelors,58800.0,95500.0,39.0,106372,18800.0,5.658085106382979,1746628.0,Arts & Communications
+417,Apparel & Textile Manufacture,Bachelors,55800.0,95400.0,33.0,106372,15800.0,6.732405063291139,1713628.0,Other
+417,Philosophy & Religion,Bachelors,51200.0,95400.0,59.0,106372,11200.0,9.4975,1667628.0,Humanities & Social Sciences
+419,Publishing,Bachelors,54000.0,95300.0,40.0,106372,14000.0,7.598,1692628.0,Other
+420,Environmental Geography,Bachelors,58300.0,95200.0,52.0,106372,18300.0,5.812677595628415,1732628.0,Other
+421,Communication Studies & Journalism,Bachelors,52700.0,95100.0,45.0,106372,12700.0,8.375748031496062,1673628.0,Arts & Communications
+422,Environmental Studies,Bachelors,57000.0,95000.0,59.0,106372,17000.0,6.257176470588235,1713628.0,Other
+422,Health Management,Bachelors,52000.0,95000.0,,106372,12000.0,8.864333333333333,1663628.0,Business & Economics
+424,Architectural Engineering Technology,Bachelors,55400.0,94900.0,50.0,106372,15400.0,6.907272727272727,1694628.0,Engineering & Technology
+425,Agribusiness Management,Bachelors,60400.0,94700.0,40.0,106372,20400.0,5.214313725490196,1738628.0,Business & Economics
+426,Interpersonal Communications,Bachelors,51500.0,94600.0,51.0,106372,11500.0,9.249739130434783,1646628.0,Arts & Communications
+426,Retail Merchandising,Bachelors,60900.0,94600.0,34.0,106372,20900.0,5.089569377990431,1740628.0,Other
+428,Diagnostic Medical Sonography,Bachelors,74100.0,94400.0,85.0,106372,34100.0,3.1194134897360706,1866628.0,Other
+428,Fashion,Bachelors,56700.0,94400.0,39.0,106372,16700.0,6.369580838323353,1692628.0,Other
+428,Network Administration,Bachelors,56000.0,94400.0,55.0,106372,16000.0,6.64825,1685628.0,Other
+428,General & Strategic Management,Bachelors,57300.0,94400.0,52.0,106372,17300.0,6.148670520231214,1698628.0,Business & Economics
+432,Accounting & Business,Bachelors,61000.0,94300.0,49.0,106372,21000.0,5.065333333333333,1732628.0,Business & Economics
+433,Dental Hygiene,Bachelors,83400.0,94000.0,80.0,106372,43400.0,2.450967741935484,1947628.0,Other
+433,Electronic & Computer Technology,Bachelors,76400.0,94000.0,65.0,106372,36400.0,2.9223076923076925,1877628.0,Engineering & Technology
+435,Journalism & Electronic Media,Bachelors,53100.0,93900.0,45.0,106372,13100.0,8.12,1641628.0,Arts & Communications
+436,Geographic Information Systems (GIS),Bachelors,58000.0,93800.0,53.0,106372,18000.0,5.9095555555555555,1687628.0,Other
+436,Toxicology,Bachelors,54900.0,93800.0,,106372,14900.0,7.139060402684564,1656628.0,Other
+438,Atmospheric Science,Bachelors,57300.0,93600.0,56.0,106372,17300.0,6.148670520231214,1674628.0,Sciences & Mathematics
+439,Retailing,Bachelors,57300.0,93200.0,35.0,106372,17300.0,6.148670520231214,1662628.0,Other
+439,Speech Communication,Bachelors,54500.0,93200.0,56.0,106372,14500.0,7.336,1634628.0,Arts & Communications
+439,Visual Effects & Motion Graphics,Bachelors,55900.0,93200.0,38.0,106372,15900.0,6.690062893081761,1648628.0,Other
+442,Ancient History,Bachelors,53600.0,93100.0,,106372,13600.0,7.821470588235294,1622628.0,Humanities & Social Sciences
+443,Broadcast & Cinematic Arts,Bachelors,49400.0,93000.0,42.0,106372,9400.0,11.316170212765957,1577628.0,Arts & Communications
+443,Sports Management,Bachelors,53000.0,93000.0,43.0,106372,13000.0,8.182461538461538,1613628.0,Business & Economics
+445,Bachelor of Science in Nursing,Bachelors,74300.0,92900.0,88.0,106372,34300.0,3.1012244897959182,1823628.0,Sciences & Mathematics
+445,Landscape Architecture,Bachelors,60600.0,92900.0,66.0,106372,20600.0,5.163689320388349,1686628.0,Other
+447,Professional Studies,Bachelors,49900.0,92600.0,67.0,106372,9900.0,10.744646464646465,1570628.0,Other
+448,Diagnostic Medical Ultrasound,Bachelors,78900.0,92500.0,71.0,106372,38900.0,2.7344987146529562,1857628.0,Other
+448,Entomology,Bachelors,51300.0,92500.0,,106372,11300.0,9.413451327433629,1581628.0,Other
+448,Foreign Languages,Bachelors,56200.0,92500.0,55.0,106372,16200.0,6.566172839506173,1630628.0,Humanities & Social Sciences
+451,Forestry,Bachelors,54000.0,92200.0,68.0,106372,14000.0,7.598,1599628.0,Other
+451,Workforce Education & Development,Bachelors,69100.0,92200.0,77.0,106372,29100.0,3.6553951890034364,1750628.0,Education
+453,Leadership,Bachelors,55600.0,92100.0,54.0,106372,15600.0,6.818717948717949,1612628.0,Other
+453,Geography,Bachelors,58300.0,92100.0,52.0,106372,18300.0,5.812677595628415,1639628.0,Other
+455,Global Studies,Bachelors,60400.0,92000.0,47.0,106372,20400.0,5.214313725490196,1657628.0,Other
+455,Media Arts,Bachelors,52800.0,92000.0,33.0,106372,12800.0,8.3103125,1581628.0,Arts & Communications
+455,Business Leadership,Bachelors,57600.0,92000.0,42.0,106372,17600.0,6.043863636363636,1629628.0,Business & Economics
+458,English Language,Bachelors,52800.0,91800.0,48.0,106372,12800.0,8.3103125,1575628.0,Humanities & Social Sciences
+459,Agricultural Business,Bachelors,61300.0,91700.0,59.0,106372,21300.0,4.9939906103286384,1657628.0,Business & Economics
+460,American Sign Language Interpreting,Bachelors,52700.0,91600.0,85.0,106372,12700.0,8.375748031496062,1568628.0,Humanities & Social Sciences
+460,Computer Aided Design (CAD),Bachelors,56400.0,91600.0,,106372,16400.0,6.48609756097561,1605628.0,Engineering & Technology
+460,Digital Arts,Bachelors,52000.0,91600.0,36.0,106372,12000.0,8.864333333333333,1561628.0,Arts & Communications
+460,Human Resources Management (HRM),Bachelors,56100.0,91600.0,55.0,106372,16100.0,6.60695652173913,1602628.0,Business & Economics
+460,Merchandising Management,Bachelors,55800.0,91600.0,48.0,106372,15800.0,6.732405063291139,1599628.0,Business & Economics
+465,Music Performance,Bachelors,53400.0,91500.0,56.0,106372,13400.0,7.938208955223881,1572628.0,Arts & Communications
+466,Liberal Arts,Bachelors,54300.0,91400.0,52.0,106372,14300.0,7.438601398601398,1578628.0,Arts & Communications
+466,Public Administration,Bachelors,55000.0,91400.0,58.0,106372,15000.0,7.091466666666666,1585628.0,Other
+466,Geosciences,Bachelors,57800.0,91400.0,62.0,106372,17800.0,5.975955056179775,1613628.0,Sciences & Mathematics
+469,Retail Management,Bachelors,62300.0,91300.0,38.0,106372,22300.0,4.770044843049328,1655628.0,Business & Economics
+470,Radio/Television & Film Production,Bachelors,52800.0,91200.0,41.0,106372,12800.0,8.3103125,1557628.0,Arts & Communications
+471,Fashion Merchandising,Bachelors,55200.0,91000.0,29.0,106372,15200.0,6.998157894736842,1575628.0,Other
+471,Mass Communication,Bachelors,52400.0,91000.0,44.0,106372,12400.0,8.578387096774193,1547628.0,Arts & Communications
+471,Travel Industry Management,Bachelors,60600.0,91000.0,,106372,20600.0,5.163689320388349,1629628.0,Business & Economics
+474,Allied Health,Bachelors,51300.0,90700.0,76.0,106372,11300.0,9.413451327433629,1527628.0,Health & Medicine
+474,Electronic Media,Bachelors,52200.0,90700.0,38.0,106372,12200.0,8.719016393442622,1536628.0,Arts & Communications
+474,Organizational Leadership & Supervision,Bachelors,56200.0,90700.0,51.0,106372,16200.0,6.566172839506173,1576628.0,Other
+477,Homeland Security,Bachelors,57100.0,90500.0,72.0,106372,17100.0,6.2205847953216376,1579628.0,Other
+477,Arts Management,Bachelors,46400.0,90500.0,47.0,106372,6400.0,16.620625,1472628.0,Business & Economics
+477,Spanish Language,Bachelors,56300.0,90500.0,49.0,106372,16300.0,6.525889570552147,1571628.0,Humanities & Social Sciences
+480,3D Animation,Bachelors,58400.0,90400.0,43.0,106372,18400.0,5.781086956521739,1589628.0,Other
+481,Business Management & Administration,Bachelors,60700.0,90300.0,52.0,106372,20700.0,5.138743961352657,1609628.0,Business & Economics
+481,Marine Biology,Bachelors,49800.0,90300.0,63.0,106372,9800.0,10.854285714285714,1500628.0,Sciences & Mathematics
+481,Nuclear Medicine Technology,Bachelors,70300.0,90300.0,80.0,106372,30300.0,3.510627062706271,1705628.0,Health & Medicine
+481,Religious Studies,Bachelors,53000.0,90300.0,54.0,106372,13000.0,8.182461538461538,1532628.0,Other
+485,English Language & Literature,Bachelors,54200.0,90200.0,44.0,106372,14200.0,7.490985915492958,1541628.0,Humanities & Social Sciences
+486,Information & Communication Technology,Bachelors,55500.0,90100.0,54.0,106372,15500.0,6.862709677419355,1551628.0,Arts & Communications
+486,Museum Studies,Bachelors,44200.0,90100.0,36.0,106372,4200.0,25.326666666666668,1438628.0,Other
+488,Business Technology,Bachelors,64400.0,90000.0,49.0,106372,24400.0,4.359508196721311,1637628.0,Business & Economics
+488,Radiologic Science,Bachelors,66000.0,90000.0,81.0,106372,26000.0,4.091230769230769,1653628.0,Sciences & Mathematics
+490,Organizational Leadership,Bachelors,58300.0,89900.0,58.0,106372,18300.0,5.812677595628415,1573628.0,Other
+490,Animation,Bachelors,52400.0,89900.0,35.0,106372,12400.0,8.578387096774193,1514628.0,Other
+492,Art History,Bachelors,55300.0,89800.0,44.0,106372,15300.0,6.952418300653595,1540628.0,Arts & Communications
+492,Management & Leadership,Bachelors,60900.0,89800.0,56.0,106372,20900.0,5.089569377990431,1596628.0,Business & Economics
+492,Meteorology,Bachelors,54400.0,89800.0,53.0,106372,14400.0,7.3869444444444445,1531628.0,Other
+495,Film Production,Bachelors,51800.0,89600.0,38.0,106372,11800.0,9.01457627118644,1499628.0,Arts & Communications
+495,Musicology,Bachelors,49500.0,89600.0,,106372,9500.0,11.197052631578947,1476628.0,Arts & Communications
+495,Technical Writing,Bachelors,62400.0,89600.0,38.0,106372,22400.0,4.74875,1605628.0,Other
+498,Administrative Management,Bachelors,60900.0,89500.0,47.0,106372,20900.0,5.089569377990431,1587628.0,Business & Economics
+498,Forestry Management,Bachelors,56100.0,89500.0,68.0,106372,16100.0,6.60695652173913,1539628.0,Business & Economics
+500,Automotive Technology & Service Management,Bachelors,63200.0,89400.0,29.0,106372,23200.0,4.585,1607628.0,Business & Economics
+501,Historic Preservation,Bachelors,48900.0,89200.0,,106372,8900.0,11.95191011235955,1458628.0,Other
+502,Multimedia,Bachelors,52700.0,89000.0,44.0,106372,12700.0,8.375748031496062,1490628.0,Arts & Communications
+502,Fashion Marketing & Management,Bachelors,56500.0,89000.0,27.0,106372,16500.0,6.4467878787878785,1528628.0,Business & Economics
+504,Organizational Management,Bachelors,57200.0,88900.0,61.0,106372,17200.0,6.184418604651163,1532628.0,Business & Economics
+505,Apparel Merchandising,Bachelors,56700.0,88800.0,35.0,106372,16700.0,6.369580838323353,1524628.0,Other
+505,Earth Science,Bachelors,58700.0,88800.0,52.0,106372,18700.0,5.688342245989305,1544628.0,Sciences & Mathematics
+505,Ethnic Studies,Bachelors,55900.0,88800.0,64.0,106372,15900.0,6.690062893081761,1516628.0,Other
+508,German Language & Literature,Bachelors,59400.0,88600.0,44.0,106372,19400.0,5.483092783505155,1545628.0,Humanities & Social Sciences
+508,Radiology,Bachelors,63800.0,88600.0,82.0,106372,23800.0,4.469411764705883,1589628.0,Other
+508,Zoology,Bachelors,48200.0,88600.0,67.0,106372,8200.0,12.97219512195122,1433628.0,Other
+511,Human Nutrition,Bachelors,57700.0,88500.0,81.0,106372,17700.0,6.009717514124294,1525628.0,Other
+512,Agricultural Communication,Bachelors,52400.0,88400.0,47.0,106372,12400.0,8.578387096774193,1469628.0,Arts & Communications
+512,Audio Engineering,Bachelors,55500.0,88400.0,40.0,106372,15500.0,6.862709677419355,1500628.0,Engineering & Technology
+512,Geomatics,Bachelors,59400.0,88400.0,64.0,106372,19400.0,5.483092783505155,1539628.0,Other
+515,Broadcast Journalism,Bachelors,51100.0,88300.0,52.0,106372,11100.0,9.583063063063063,1453628.0,Other
+516,Cytotechnology,Bachelors,69100.0,88100.0,85.0,106372,29100.0,3.6553951890034364,1627628.0,Other
+516,Marketing & Advertising,Bachelors,57000.0,88100.0,46.0,106372,17000.0,6.257176470588235,1506628.0,Business & Economics
+518,Applied Management,Bachelors,50600.0,88000.0,62.0,106372,10600.0,10.035094339622642,1439628.0,Business & Economics
+518,Social Studies,Bachelors,56600.0,88000.0,53.0,106372,16600.0,6.407951807228915,1499628.0,Humanities & Social Sciences
+520,Communication Design,Bachelors,60600.0,87900.0,34.0,106372,20600.0,5.163689320388349,1536628.0,Arts & Communications
+520,Romance Languages,Bachelors,59100.0,87900.0,57.0,106372,19100.0,5.569214659685864,1521628.0,Humanities & Social Sciences
+522,Sociology & Anthropology,Bachelors,53300.0,87800.0,53.0,106372,13300.0,7.997894736842105,1460628.0,Other
+523,Creative Writing,Bachelors,52800.0,87700.0,41.0,106372,12800.0,8.3103125,1452628.0,Other
+523,Human Resources (HR),Bachelors,55500.0,87700.0,55.0,106372,15500.0,6.862709677419355,1479628.0,Other
+525,Law Enforcement,Bachelors,55200.0,87400.0,64.0,106372,15200.0,6.998157894736842,1467628.0,Other
+526,Criminal Justice Administration,Bachelors,53700.0,87300.0,61.0,106372,13700.0,7.764379562043795,1449628.0,Other
+527,Marine Science,Bachelors,53600.0,87200.0,63.0,106372,13600.0,7.821470588235294,1445628.0,Sciences & Mathematics
+527,Training and Development,Bachelors,61300.0,87200.0,,106372,21300.0,4.9939906103286384,1522628.0,Other
+529,Advertising & Graphic Design,Bachelors,55100.0,87100.0,39.0,106372,15100.0,7.044503311258278,1457628.0,Arts & Communications
+529,Technical & Scientific Communication,Bachelors,59200.0,87100.0,36.0,106372,19200.0,5.540208333333333,1498628.0,Arts & Communications
+531,Natural Resources,Bachelors,56000.0,86800.0,57.0,106372,16000.0,6.64825,1457628.0,Other
+532,Radiologic Technology,Bachelors,64000.0,86600.0,82.0,106372,24000.0,4.432166666666666,1531628.0,Other
+533,Sports Administration,Bachelors,52500.0,86500.0,46.0,106372,12500.0,8.50976,1413628.0,Other
+534,Broadcast Communication,Bachelors,48700.0,86400.0,47.0,106372,8700.0,12.226666666666667,1372628.0,Arts & Communications
+535,Cultural Anthropology,Bachelors,56400.0,86300.0,49.0,106372,16400.0,6.48609756097561,1446628.0,Other
+536,Human Resources Development,Bachelors,57000.0,86100.0,51.0,106372,17000.0,6.257176470588235,1446628.0,Other
+537,Human Relations,Bachelors,53500.0,86000.0,59.0,106372,13500.0,7.879407407407407,1408628.0,Other
+537,Merchandising,Bachelors,61000.0,86000.0,33.0,106372,21000.0,5.065333333333333,1483628.0,Other
+537,Environmental Health Science,Bachelors,63000.0,86000.0,,106372,23000.0,4.6248695652173915,1503628.0,Sciences & Mathematics
+540,Communication Management,Bachelors,54400.0,85900.0,45.0,106372,14400.0,7.3869444444444445,1414628.0,Business & Economics
+540,Security Management,Bachelors,55500.0,85900.0,,106372,15500.0,6.862709677419355,1425628.0,Business & Economics
+542,Administration,Bachelors,49700.0,85800.0,60.0,106372,9700.0,10.96618556701031,1364628.0,Other
+542,Adult Education & Training,Bachelors,58000.0,85800.0,78.0,106372,18000.0,5.9095555555555555,1447628.0,Education
+542,Health Care Management,Bachelors,53000.0,85800.0,74.0,106372,13000.0,8.182461538461538,1397628.0,Business & Economics
+542,Medical Laboratory Technology,Bachelors,66700.0,85800.0,83.0,106372,26700.0,3.9839700374531835,1534628.0,Other
+546,Multimedia & Web Design,Bachelors,57600.0,85700.0,31.0,106372,17600.0,6.043863636363636,1440628.0,Arts & Communications
+546,Psychology,Bachelors,52800.0,85700.0,57.0,106372,12800.0,8.3103125,1392628.0,Other
+548,Visual Communications,Bachelors,52800.0,85600.0,34.0,106372,12800.0,8.3103125,1389628.0,Arts & Communications
+549,Emergency Management,Bachelors,58900.0,85500.0,76.0,106372,18900.0,5.628148148148148,1447628.0,Business & Economics
+550,Natural Resource Management,Bachelors,54600.0,85300.0,53.0,106372,14600.0,7.285753424657535,1398628.0,Business & Economics
+550,Hotel & Restaurant Management,Bachelors,56400.0,85300.0,49.0,106372,16400.0,6.48609756097561,1416628.0,Business & Economics
+552,Anthropology,Bachelors,55200.0,85200.0,46.0,106372,15200.0,6.998157894736842,1401628.0,Other
+552,Diagnostic Medical Imaging,Bachelors,70300.0,85200.0,74.0,106372,30300.0,3.510627062706271,1552628.0,Other
+554,Middle Eastern Studies,Bachelors,67900.0,85100.0,46.0,106372,27900.0,3.8126164874551973,1525628.0,Other
+554,Painting & Printmaking,Bachelors,40500.0,85100.0,44.0,106372,500.0,212.744,1251628.0,Other
+556,Criminology,Bachelors,52200.0,85000.0,54.0,106372,12200.0,8.719016393442622,1365628.0,Other
+556,New Media,Bachelors,53100.0,85000.0,37.0,106372,13100.0,8.12,1374628.0,Arts & Communications
+558,Psychology & Social Behavior,Bachelors,53300.0,84900.0,59.0,106372,13300.0,7.997894736842105,1373628.0,Humanities & Social Sciences
+559,Art & Design,Bachelors,53200.0,84700.0,39.0,106372,13200.0,8.058484848484849,1366628.0,Arts & Communications
+560,Ecology,Bachelors,54700.0,84500.0,58.0,106372,14700.0,7.236190476190476,1375628.0,Other
+560,Interior Design,Bachelors,53200.0,84500.0,51.0,106372,13200.0,8.058484848484849,1360628.0,Arts & Communications
+560,Multidisciplinary Studies,Bachelors,51500.0,84500.0,53.0,106372,11500.0,9.249739130434783,1343628.0,Other
+560,Hospitality Management,Bachelors,55400.0,84500.0,43.0,106372,15400.0,6.907272727272727,1382628.0,Business & Economics
+564,Music,Bachelors,52700.0,84400.0,55.0,106372,12700.0,8.375748031496062,1352628.0,Arts & Communications
+565,Health Sciences,Bachelors,52300.0,84300.0,70.0,106372,12300.0,8.648130081300813,1345628.0,Sciences & Mathematics
+565,Sociology,Bachelors,54700.0,84300.0,55.0,106372,14700.0,7.236190476190476,1369628.0,Other
+567,Physical Anthropology,Bachelors,57600.0,84100.0,,106372,17600.0,6.043863636363636,1392628.0,Other
+568,Cardiopulmonary Science,Bachelors,58200.0,84000.0,92.0,106372,18200.0,5.844615384615385,1395628.0,Sciences & Mathematics
+569,Archaeology,Bachelors,52700.0,83900.0,46.0,106372,12700.0,8.375748031496062,1337628.0,Other
+569,Life Sciences,Bachelors,61100.0,83900.0,62.0,106372,21100.0,5.04132701421801,1421628.0,Sciences & Mathematics
+569,SocialStudies,Bachelors,54200.0,83900.0,57.0,106372,14200.0,7.490985915492958,1352628.0,Humanities & Social Sciences
+572,Communication Arts,Bachelors,49600.0,83800.0,40.0,106372,9600.0,11.080416666666666,1303628.0,Arts & Communications
+573,Health Information Management,Bachelors,57200.0,83700.0,68.0,106372,17200.0,6.184418604651163,1376628.0,Business & Economics
+573,Kinesiology,Bachelors,52600.0,83700.0,66.0,106372,12600.0,8.442222222222222,1330628.0,Other
+573,Clinical Laboratory Science,Bachelors,63400.0,83700.0,82.0,106372,23400.0,4.545811965811966,1438628.0,Sciences & Mathematics
+576,Spanish Language Teacher Education,Bachelors,56700.0,83600.0,,106372,16700.0,6.369580838323353,1368628.0,Education
+577,Child Psychology,Bachelors,50500.0,83500.0,61.0,106372,10500.0,10.130666666666666,1303628.0,Other
+577,Exercise Physiology,Bachelors,50600.0,83500.0,74.0,106372,10600.0,10.035094339622642,1304628.0,Other
+577,Respiratory Care,Bachelors,63700.0,83500.0,85.0,106372,23700.0,4.488270042194093,1435628.0,Other
+580,Art Therapy,Bachelors,47500.0,83400.0,83.0,106372,7500.0,14.182933333333333,1270628.0,Health & Medicine
+580,Medical Laboratory Science,Bachelors,64900.0,83400.0,86.0,106372,24900.0,4.271967871485944,1444628.0,Sciences & Mathematics
+580,Secondary Education,Bachelors,52100.0,83400.0,59.0,106372,12100.0,8.79107438016529,1316628.0,Education
+580,Theater,Bachelors,52800.0,83400.0,48.0,106372,12800.0,8.3103125,1323628.0,Other
+584,Hospital Administration,Bachelors,60100.0,83300.0,51.0,106372,20100.0,5.292139303482587,1393628.0,Other
+584,Practical Nursing,Bachelors,72100.0,83300.0,80.0,106372,32100.0,3.3137694704049845,1513628.0,Health & Medicine
+586,Health,Bachelors,51000.0,83200.0,70.0,106372,11000.0,9.670181818181819,1299628.0,Health & Medicine
+586,Health Care Administration,Bachelors,53400.0,83200.0,68.0,106372,13400.0,7.938208955223881,1323628.0,Health & Medicine
+588,Mass Media,Bachelors,47100.0,82900.0,46.0,106372,7100.0,14.981971830985916,1251628.0,Arts & Communications
+589,Sustainability,Bachelors,56100.0,82700.0,58.0,106372,16100.0,6.60695652173913,1335628.0,Other
+590,Radiography,Bachelors,64700.0,82600.0,82.0,106372,24700.0,4.306558704453441,1418628.0,Other
+591,Media Communication,Bachelors,55000.0,82500.0,45.0,106372,15000.0,7.091466666666666,1318628.0,Arts & Communications
+592,Applied Behavior Analysis,Bachelors,44700.0,82400.0,88.0,106372,4700.0,22.632340425531915,1212628.0,Other
+592,Biological Anthropology,Bachelors,54900.0,82400.0,47.0,106372,14900.0,7.139060402684564,1314628.0,Other
+592,Hotel & Restaurant Tourism,Bachelors,50200.0,82400.0,,106372,10200.0,10.428627450980391,1267628.0,Other
+592,Respiratory Therapy,Bachelors,63800.0,82400.0,84.0,106372,23800.0,4.469411764705883,1403628.0,Health & Medicine
+596,Radio & Television,Bachelors,50100.0,82100.0,39.0,106372,10100.0,10.531881188118811,1257628.0,Other
+597,Recreation Management,Bachelors,50300.0,81900.0,60.0,106372,10300.0,10.327378640776699,1253628.0,Business & Economics
+598,Humanities,Bachelors,58100.0,81800.0,55.0,106372,18100.0,5.876906077348067,1328628.0,Other
+599,Computer Art,Bachelors,45400.0,81600.0,37.0,106372,5400.0,19.69851851851852,1195628.0,Engineering & Technology
+600,Communications Technology,Bachelors,54100.0,81500.0,32.0,106372,14100.0,7.544113475177305,1279628.0,Arts & Communications
+600,Psychiatry,Bachelors,65900.0,81500.0,,106372,25900.0,4.107027027027027,1397628.0,Other
+602,Commercial Photography,Bachelors,50400.0,81300.0,26.0,106372,10400.0,10.228076923076923,1236628.0,Other
+603,Fashion Design & Marketing,Bachelors,55300.0,81200.0,50.0,106372,15300.0,6.952418300653595,1282628.0,Business & Economics
+603,Interdisciplinary Studies (IS),Bachelors,52200.0,81200.0,56.0,106372,12200.0,8.719016393442622,1251628.0,Other
+603,Web Design,Bachelors,55500.0,81200.0,29.0,106372,15500.0,6.862709677419355,1284628.0,Arts & Communications
+606,Legal Studies,Bachelors,55000.0,81100.0,52.0,106372,15000.0,7.091466666666666,1276628.0,Other
+606,Nutrition & Dietetics,Bachelors,59000.0,81100.0,71.0,106372,19000.0,5.598526315789473,1316628.0,Other
+608,Plant Sciences,Bachelors,57400.0,80900.0,56.0,106372,17400.0,6.113333333333333,1294628.0,Sciences & Mathematics
+609,Graphic Design,Bachelors,52900.0,80800.0,38.0,106372,12900.0,8.245891472868218,1246628.0,Arts & Communications
+609,Fine Arts,Bachelors,50400.0,80800.0,45.0,106372,10400.0,10.228076923076923,1221628.0,Arts & Communications
+611,Liberal Studies,Bachelors,52800.0,80700.0,55.0,106372,12800.0,8.3103125,1242628.0,Other
+611,Modern Languages,Bachelors,58900.0,80700.0,54.0,106372,18900.0,5.628148148148148,1303628.0,Humanities & Social Sciences
+613,Religion,Bachelors,51900.0,80600.0,56.0,106372,11900.0,8.938823529411765,1230628.0,Other
+614,Medical Technology,Bachelors,62800.0,80500.0,84.0,106372,22800.0,4.665438596491228,1336628.0,Other
+615,Dietetics,Bachelors,59700.0,80300.0,73.0,106372,19700.0,5.399593908629441,1299628.0,Other
+615,Health Administration,Bachelors,49500.0,80300.0,65.0,106372,9500.0,11.197052631578947,1197628.0,Health & Medicine
+615,Missions,Bachelors,46700.0,80300.0,,106372,6700.0,15.876417910447762,1169628.0,Other
+618,Applied Sociology,Bachelors,48900.0,80100.0,59.0,106372,8900.0,11.95191011235955,1185628.0,Other
+619,Criminal Justice,Bachelors,50000.0,80000.0,56.0,106372,10000.0,10.6372,1193628.0,Other
+620,Ornamental Horticulture,Bachelors,47400.0,79800.0,67.0,106372,7400.0,14.374594594594594,1161628.0,Other
+620,Physical Geography,Bachelors,56100.0,79800.0,58.0,106372,16100.0,6.60695652173913,1248628.0,Other
+622,Landscape Management,Bachelors,61100.0,79600.0,,106372,21100.0,5.04132701421801,1292628.0,Business & Economics
+622,Ministry,Bachelors,42700.0,79600.0,79.0,106372,2700.0,39.39703703703704,1108628.0,Other
+622,Public Health (PH),Bachelors,54000.0,79600.0,70.0,106372,14000.0,7.598,1221628.0,Health & Medicine
+625,Speech-Language Pathology,Bachelors,51400.0,79400.0,68.0,106372,11400.0,9.330877192982456,1189628.0,Humanities & Social Sciences
+626,Drawing,Bachelors,44300.0,79300.0,36.0,106372,4300.0,24.73767441860465,1115628.0,Other
+627,Health & Fitness,Bachelors,45300.0,79200.0,71.0,106372,5300.0,20.070188679245284,1122628.0,Health & Medicine
+628,Forensic Psychology,Bachelors,49700.0,79100.0,57.0,106372,9700.0,10.96618556701031,1163628.0,Other
+628,Pastoral Studies,Bachelors,60800.0,79100.0,,106372,20800.0,5.1140384615384615,1274628.0,Other
+630,Culture Studies,Bachelors,53500.0,79000.0,55.0,106372,13500.0,7.879407407407407,1198628.0,Other
+631,Foods & Nutrition,Bachelors,54500.0,78900.0,67.0,106372,14500.0,7.336,1205628.0,Other
+631,Women's Studies,Bachelors,52500.0,78900.0,60.0,106372,12500.0,8.50976,1185628.0,Other
+631,Forensic Accounting,Bachelors,56200.0,78900.0,48.0,106372,16200.0,6.566172839506173,1222628.0,Business & Economics
+634,Animal Science,Bachelors,48300.0,78800.0,66.0,106372,8300.0,12.81590361445783,1140628.0,Sciences & Mathematics
+635,Performing Arts,Bachelors,52900.0,78600.0,57.0,106372,12900.0,8.245891472868218,1180628.0,Arts & Communications
+636,Education,Bachelors,52200.0,78500.0,65.0,106372,12200.0,8.719016393442622,1170628.0,Education
+637,African American & African Studies,Bachelors,55900.0,78400.0,60.0,106372,15900.0,6.690062893081761,1204628.0,Other
+638,Hospitality & Tourism,Bachelors,53200.0,78200.0,41.0,106372,13200.0,8.058484848484849,1171628.0,Other
+638,Modern Language Spanish,Bachelors,52400.0,78200.0,65.0,106372,12400.0,8.578387096774193,1163628.0,Humanities & Social Sciences
+640,Arts & Science,Bachelors,53300.0,77900.0,,106372,13300.0,7.997894736842105,1163628.0,Sciences & Mathematics
+641,Nutrition Science,Bachelors,57800.0,77800.0,69.0,106372,17800.0,5.975955056179775,1205628.0,Sciences & Mathematics
+642,Speech Pathology & Audiology,Bachelors,53100.0,77700.0,78.0,106372,13100.0,8.12,1155628.0,Other
+643,Media Production,Bachelors,50800.0,77600.0,36.0,106372,10800.0,9.84925925925926,1129628.0,Arts & Communications
+643,Small Business Management,Bachelors,54000.0,77600.0,36.0,106372,14000.0,7.598,1161628.0,Business & Economics
+645,Painting,Bachelors,48500.0,77500.0,45.0,106372,8500.0,12.51435294117647,1103628.0,Other
+645,Social Science Teacher Education,Bachelors,53100.0,77500.0,,106372,13100.0,8.12,1149628.0,Sciences & Mathematics
+645,Network Technology,Bachelors,64100.0,77500.0,66.0,106372,24100.0,4.4137759336099585,1259628.0,Other
+648,Psychology & Sociology,Bachelors,50700.0,77400.0,54.0,106372,10700.0,9.941308411214953,1122628.0,Other
+649,Music Composition,Bachelors,51200.0,77300.0,53.0,106372,11200.0,9.4975,1124628.0,Arts & Communications
+649,Video Production,Bachelors,48900.0,77300.0,33.0,106372,8900.0,11.95191011235955,1101628.0,Other
+651,Dramatic Art,Bachelors,50000.0,76700.0,,106372,10000.0,10.6372,1094628.0,Arts & Communications
+652,Mortuary Science,Bachelors,49100.0,76600.0,80.0,106372,9100.0,11.68923076923077,1082628.0,Sciences & Mathematics
+652,Technical Theatre,Bachelors,48000.0,76600.0,42.0,106372,8000.0,13.2965,1071628.0,Other
+654,Family & Consumer Science,Bachelors,51300.0,76500.0,61.0,106372,11300.0,9.413451327433629,1101628.0,Sciences & Mathematics
+654,Radio Broadcasting,Bachelors,53100.0,76500.0,41.0,106372,13100.0,8.12,1119628.0,Other
+654,Theology,Bachelors,51800.0,76500.0,67.0,106372,11800.0,9.01457627118644,1106628.0,Other
+657,Health Studies,Bachelors,50900.0,76400.0,64.0,106372,10900.0,9.758899082568808,1094628.0,Health & Medicine
+658,Consumer Affairs,Bachelors,59500.0,76200.0,44.0,106372,19500.0,5.454974358974359,1174628.0,Other
+659,Vocal Performance,Bachelors,49900.0,76100.0,63.0,106372,9900.0,10.744646464646465,1075628.0,Other
+660,Art,Bachelors,51000.0,76000.0,46.0,106372,11000.0,9.670181818181819,1083628.0,Arts & Communications
+661,Behavioral Science,Bachelors,50800.0,75900.0,61.0,106372,10800.0,9.84925925925926,1078628.0,Sciences & Mathematics
+661,Health Services Administration,Bachelors,50100.0,75900.0,64.0,106372,10100.0,10.531881188118811,1071628.0,Health & Medicine
+663,General Studies,Bachelors,51300.0,75800.0,54.0,106372,11300.0,9.413451327433629,1080628.0,Other
+663,Photography,Bachelors,51300.0,75800.0,39.0,106372,11300.0,9.413451327433629,1080628.0,Other
+665,Exercise & Sports Science,Bachelors,49500.0,75700.0,70.0,106372,9500.0,11.197052631578947,1059628.0,Sciences & Mathematics
+665,Forensic Science,Bachelors,53600.0,75700.0,62.0,106372,13600.0,7.821470588235294,1100628.0,Sciences & Mathematics
+665,History Teacher Education,Bachelors,53000.0,75700.0,48.0,106372,13000.0,8.182461538461538,1094628.0,Education
+668,International Trade,Bachelors,55700.0,75600.0,44.0,106372,15700.0,6.775286624203821,1118628.0,Other
+669,Restaurant & Food Service Management,Bachelors,50600.0,75500.0,40.0,106372,10600.0,10.035094339622642,1064628.0,Business & Economics
+670,Health & Physical Education Teaching,Bachelors,46600.0,75300.0,63.0,106372,6600.0,16.116969696969697,1018628.0,Health & Medicine
+671,Justice Studies,Bachelors,53800.0,75200.0,50.0,106372,13800.0,7.708115942028986,1087628.0,Other
+672,Tourism & Travel,Bachelors,46700.0,75100.0,38.0,106372,6700.0,15.876417910447762,1013628.0,Other
+673,Culinary Arts,Bachelors,47800.0,74900.0,56.0,106372,7800.0,13.637435897435898,1018628.0,Arts & Communications
+673,Physical Education Teaching,Bachelors,49700.0,74900.0,69.0,106372,9700.0,10.96618556701031,1037628.0,Education
+675,Physical Therapist Assistant Studies,Bachelors,56800.0,74800.0,,106372,16800.0,6.331666666666667,1105628.0,Other
+676,Graphic Arts,Bachelors,49800.0,74600.0,45.0,106372,9800.0,10.854285714285714,1029628.0,Arts & Communications
+677,Interior Design & Merchandising,Bachelors,51700.0,74300.0,43.0,106372,11700.0,9.091623931623932,1039628.0,Arts & Communications
+677,Supervision & Management,Bachelors,49500.0,74300.0,60.0,106372,9500.0,11.197052631578947,1017628.0,Business & Economics
+679,Event Management,Bachelors,49800.0,74100.0,41.0,106372,9800.0,10.854285714285714,1014628.0,Business & Economics
+679,Health & Wellness,Bachelors,46800.0,74100.0,69.0,106372,6800.0,15.642941176470588,984628.0,Health & Medicine
+679,Music Industry,Bachelors,54500.0,74100.0,37.0,106372,14500.0,7.336,1061628.0,Arts & Communications
+682,Clinical Psychology,Bachelors,49300.0,74000.0,66.0,106372,9300.0,11.437849462365591,1006628.0,Other
+682,Recreation Administration,Bachelors,55500.0,74000.0,64.0,106372,15500.0,6.862709677419355,1068628.0,Other
+684,Health & Exercise Science,Bachelors,48300.0,73900.0,66.0,106372,8300.0,12.81590361445783,993628.0,Sciences & Mathematics
+684,Physical Education & Exercise Science,Bachelors,52600.0,73900.0,71.0,106372,12600.0,8.442222222222222,1036628.0,Sciences & Mathematics
+686,Recreation & Leisure Studies,Bachelors,48400.0,73800.0,60.0,106372,8400.0,12.663333333333334,991628.0,Other
+687,Ceramics,Bachelors,51100.0,73700.0,46.0,106372,11100.0,9.583063063063063,1015628.0,Other
+687,Culinary Arts & Food Service Management,Bachelors,49800.0,73700.0,47.0,106372,9800.0,10.854285714285714,1002628.0,Business & Economics
+689,Secondary English Teacher Education,Bachelors,51700.0,73600.0,62.0,106372,11700.0,9.091623931623932,1018628.0,Education
+690,Family & Community Services,Bachelors,49700.0,73500.0,75.0,106372,9700.0,10.96618556701031,995628.0,Other
+691,Instrumental Music Teacher Education,Bachelors,51100.0,73200.0,69.0,106372,11100.0,9.583063063063063,1000628.0,Education
+692,Health Services Management,Bachelors,48900.0,73100.0,87.0,106372,8900.0,11.95191011235955,975628.0,Business & Economics
+693,Exercise Science,Bachelors,48900.0,72900.0,72.0,106372,8900.0,11.95191011235955,969628.0,Sciences & Mathematics
+693,English Teacher Education,Bachelors,50300.0,72900.0,58.0,106372,10300.0,10.327378640776699,983628.0,Education
+693,Paralegal Studies,Bachelors,47300.0,72900.0,49.0,106372,7300.0,14.57150684931507,953628.0,Other
+696,Audio Production,Bachelors,51300.0,72600.0,44.0,106372,11300.0,9.413451327433629,984628.0,Other
+697,Community Health,Bachelors,54300.0,72400.0,72.0,106372,14300.0,7.438601398601398,1008628.0,Health & Medicine
+697,Photojournalism,Bachelors,48200.0,72400.0,55.0,106372,8200.0,12.97219512195122,947628.0,Other
+699,Fashion & Retail Management,Bachelors,57300.0,72300.0,31.0,106372,17300.0,6.148670520231214,1035628.0,Business & Economics
+700,Dance,Bachelors,51800.0,72000.0,60.0,106372,11800.0,9.01457627118644,971628.0,Other
+701,Conservation Biology,Bachelors,49400.0,71600.0,53.0,106372,9400.0,11.316170212765957,935628.0,Sciences & Mathematics
+702,Parks & Recreation Management,Bachelors,49700.0,71500.0,60.0,106372,9700.0,10.96618556701031,935628.0,Business & Economics
+703,Deaf Studies,Bachelors,43300.0,71300.0,,106372,3300.0,32.233939393939394,865628.0,Other
+703,Music Teacher Education,Bachelors,49600.0,71300.0,58.0,106372,9600.0,11.080416666666666,928628.0,Education
+703,Tourism Management,Bachelors,51400.0,71300.0,39.0,106372,11400.0,9.330877192982456,946628.0,Business & Economics
+706,Teaching English as a Second Language (ESL),Bachelors,49900.0,70900.0,65.0,106372,9900.0,10.744646464646465,919628.0,Education
+707,Organizational Administration,Bachelors,52600.0,70700.0,,106372,12600.0,8.442222222222222,940628.0,Other
+708,Wildlife Biology,Bachelors,50200.0,70400.0,57.0,106372,10200.0,10.428627450980391,907628.0,Sciences & Mathematics
+709,Educational Studies (ED),Bachelors,46900.0,70300.0,66.0,106372,6900.0,15.416231884057972,871628.0,Education
+709,Elementary Special Education,Bachelors,52500.0,70300.0,82.0,106372,12500.0,8.50976,927628.0,Education
+711,Horticulture,Bachelors,49900.0,70100.0,56.0,106372,9900.0,10.744646464646465,895628.0,Other
+712,Gender Studies,Bachelors,52700.0,70000.0,54.0,106372,12700.0,8.375748031496062,920628.0,Other
+712,Landscape Design,Bachelors,57900.0,70000.0,70.0,106372,17900.0,5.942569832402235,972628.0,Arts & Communications
+712,Wildlife Management,Bachelors,45800.0,70000.0,46.0,106372,5800.0,18.34,851628.0,Business & Economics
+715,Community Development,Bachelors,53000.0,69600.0,70.0,106372,13000.0,8.182461538461538,911628.0,Other
+715,Emergency Medical Services (EMS),Bachelors,48100.0,69600.0,,106372,8100.0,13.132345679012346,862628.0,Other
+717,Biblical Studies & Practical Ministries,Bachelors,44300.0,69200.0,,106372,4300.0,24.73767441860465,812628.0,Other
+717,Community Health Education,Bachelors,50100.0,69200.0,69.0,106372,10100.0,10.531881188118811,870628.0,Health & Medicine
+717,Recording Arts,Bachelors,53400.0,69200.0,56.0,106372,13400.0,7.938208955223881,903628.0,Arts & Communications
+720,Health Promotion,Bachelors,49500.0,69000.0,71.0,106372,9500.0,11.197052631578947,858628.0,Health & Medicine
+720,Social Studies Teacher Education,Bachelors,50900.0,69000.0,62.0,106372,10900.0,9.758899082568808,872628.0,Education
+722,Athletic Training,Bachelors,49100.0,68900.0,75.0,106372,9100.0,11.68923076923077,851628.0,Other
+722,Pastoral Ministry,Bachelors,45800.0,68900.0,75.0,106372,5800.0,18.34,818628.0,Other
+724,Communication Sciences & Disorders,Bachelors,52000.0,68700.0,74.0,106372,12000.0,8.864333333333333,874628.0,Sciences & Mathematics
+725,Speech & Hearing,Bachelors,53200.0,68600.0,70.0,106372,13200.0,8.058484848484849,883628.0,Other
+726,Sculpture,Bachelors,46000.0,68200.0,49.0,106372,6000.0,17.728666666666665,799628.0,Other
+727,Church Ministries,Bachelors,43300.0,67400.0,80.0,106372,3300.0,32.233939393939394,748628.0,Other
+728,Biblical Studies,Bachelors,48400.0,67300.0,69.0,106372,8400.0,12.663333333333334,796628.0,Other
+729,Horticulture & Agronomy,Bachelors,60700.0,67200.0,,106372,20700.0,5.138743961352657,916628.0,Other
+730,Bible Studies & Theology,Bachelors,46300.0,67000.0,68.0,106372,6300.0,16.884444444444444,766628.0,Other
+731,Human Development & Family Studies,Bachelors,47000.0,66400.0,64.0,106372,7000.0,15.196,755628.0,Other
+732,Family Studies,Bachelors,46300.0,66100.0,59.0,106372,6300.0,16.884444444444444,739628.0,Other
+732,Legal Assistant Studies,Bachelors,43300.0,66100.0,39.0,106372,3300.0,32.233939393939394,709628.0,Other
+734,Christian Ministry,Bachelors,44300.0,65200.0,75.0,106372,4300.0,24.73767441860465,692628.0,Other
+735,Health and Human Services,Bachelors,50600.0,65100.0,65.0,106372,10600.0,10.035094339622642,752628.0,Health & Medicine
+735,Voice & Opera,Bachelors,39600.0,65100.0,52.0,106372,-400.0,999.0,642628.0,Other
+737,Home Economics,Bachelors,49200.0,65000.0,69.0,106372,9200.0,11.562173913043479,735628.0,Business & Economics
+737,Special Education,Bachelors,48400.0,65000.0,74.0,106372,8400.0,12.663333333333334,727628.0,Education
+739,Music Therapy,Bachelors,49400.0,64900.0,95.0,106372,9400.0,11.316170212765957,734628.0,Health & Medicine
+740,Rehabilitation Services,Bachelors,43600.0,64700.0,76.0,106372,3600.0,29.547777777777778,670628.0,Other
+741,Developmental Psychology,Bachelors,44200.0,63700.0,,106372,4200.0,25.326666666666668,646628.0,Other
+741,Youth Ministry,Bachelors,44000.0,63700.0,76.0,106372,4000.0,26.593,644628.0,Other
+743,Educational Psychology,Bachelors,48100.0,63600.0,,106372,8100.0,13.132345679012346,682628.0,Education
+744,Community & Human Services,Bachelors,49500.0,63200.0,79.0,106372,9500.0,11.197052631578947,684628.0,Other
+744,Therapeutic Recreation,Bachelors,46700.0,63200.0,83.0,106372,6700.0,15.876417910447762,656628.0,Other
+746,Social Work (SW),Bachelors,45000.0,63000.0,77.0,106372,5000.0,21.2744,633628.0,Humanities & Social Sciences
+747,Elementary Education,Bachelors,47300.0,62500.0,68.0,106372,7300.0,14.57150684931507,641628.0,Education
+748,Office Administration,Bachelors,45600.0,62300.0,68.0,106372,5600.0,18.995,618628.0,Other
+749,Christian Education,Bachelors,47200.0,62200.0,84.0,106372,7200.0,14.773888888888889,631628.0,Education
+750,Human Services (HS),Bachelors,45800.0,61400.0,71.0,106372,5800.0,18.34,593628.0,Other
+751,Child Development,Bachelors,43400.0,60400.0,74.0,106372,3400.0,31.285882352941176,539628.0,Other
+752,Middle School Education,Bachelors,49900.0,60200.0,76.0,106372,9900.0,10.744646464646465,598628.0,Education
+753,Recreational Therapy,Bachelors,45700.0,58900.0,82.0,106372,5700.0,18.66175438596491,517628.0,Health & Medicine
+754,Early Childhood & Elementary Education,Bachelors,44900.0,58000.0,77.0,106372,4900.0,21.708571428571428,482628.0,Education
+755,Outdoor Education,Bachelors,43400.0,56900.0,47.0,106372,3400.0,31.285882352941176,434628.0,Education
+756,Baking & Pastry Arts,Bachelors,43700.0,56500.0,38.0,106372,3700.0,28.749189189189188,425628.0,Arts & Communications
+757,Child & Family Studies,Bachelors,42900.0,55300.0,73.0,106372,2900.0,36.68,381628.0,Other
+758,Mental Health,Bachelors,44100.0,54500.0,79.0,106372,4100.0,25.94439024390244,369628.0,Health & Medicine
+759,Equine Studies,Bachelors,42300.0,54100.0,50.0,106372,2300.0,46.248695652173915,339628.0,Other
+760,Nonprofit Administration,Bachelors,43900.0,53700.0,73.0,106372,3900.0,27.274871794871796,343628.0,Other
+761,Addictions Counseling,Bachelors,47300.0,52400.0,78.0,106372,7300.0,14.57150684931507,338628.0,Other
+762,Early Childhood Education,Bachelors,43400.0,52200.0,78.0,106372,3400.0,31.285882352941176,293628.0,Education
+763,Metalsmithing,Bachelors,45900.0,46600.0,36.0,106372,5900.0,18.02915254237288,150628.0,Other
